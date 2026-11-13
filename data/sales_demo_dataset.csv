@@ -1,0 +1,1001 @@
+order_id,order_date,region,city,manager,category,subcategory,product_name,customer_age,customer_gender,quantity,unit_price,discount,revenue,cost,profit,returned,payment_type
+1001,2025-12-13,Center,Yerevan,Sona,Electronics,Phones,Pixel 10,45,M,5,616.01,0.03,2987.65,2263.94,723.71,True,Card
+1002,2025-04-23,West,Dilijan,Maria,Furniture,Chairs,Office Chair,18,M,4,1791.47,0.2,5732.7,3959.75,1772.95,False,Cash
+1003,2026-03-10,East,Dilijan,Maria,Clothing,Jackets,Winter Jacket,20,F,6,260.01,0.1,1404.05,749.55,654.5,True,Cash
+1004,2025-12-05,South,Vanadzor,Anna,Electronics,Tablets,Galaxy Tab,32,M,6,1445.49,0.2,6938.35,3638.08,3300.27,False,Cash
+1005,2025-12-26,North,Dilijan,Karen,Food,Coffee,Espresso Pack,28,M,3,928.6,0.03,2702.23,1984.95,717.28,False,Cash
+1006,2025-01-17,East,Goris,Maria,Food,Drinks,Cola,22,M,6,2107.92,0.0,12647.52,7337.67,5309.85,False,Card
+1007,2025-10-03,East,Dilijan,Arman,Food,Drinks,Orange Juice,55,F,3,665.88,0.03,1937.71,1474.11,463.6,False,Card
+1008,2025-03-23,West,Dilijan,Anna,Furniture,Sofas,Mini Sofa,42,F,2,1890.68,0.0,3781.36,2092.96,1688.4,False,Transfer
+1009,2026-01-29,East,Yerevan,Maria,Clothing,T-Shirts,Basic Tee,45,M,2,1705.87,0.15,2899.98,2212.13,687.85,False,Card
+1010,2025-09-17,Center,Gyumri,David,Clothing,T-Shirts,Basic Tee,41,M,2,2176.94,0.05,4136.19,3286.55,849.64,True,Transfer
+1011,2025-05-04,Center,Yerevan,Anna,Clothing,Shoes,Running Shoes,64,F,2,2323.1,0.05,4413.89,2576.87,1837.02,True,Transfer
+1012,2025-04-19,Center,Gyumri,Karen,Furniture,Chairs,Gaming Chair,37,F,3,666.32,0.15,1699.12,1101.2,597.92,False,Cash
+1013,2025-04-28,Center,Gyumri,Anna,Food,Snacks,Protein Bar,22,M,4,164.74,0.0,658.96,465.17,193.79,False,Card
+1014,2025-03-09,Center,Dilijan,Arman,Electronics,Laptops,MacBook Air,33,F,4,699.8,0.1,2519.28,1448.54,1070.74,False,Card
+1015,2026-01-09,North,Yerevan,Anna,Electronics,Phones,Pixel 10,43,F,7,888.97,0.1,5600.51,3715.71,1884.8,True,Card
+1016,2026-03-24,North,Goris,Sona,Furniture,Chairs,Gaming Chair,24,M,3,1057.59,0.05,3014.13,1995.11,1019.02,True,Card
+1017,2025-03-26,West,Yerevan,Arman,Furniture,Chairs,Gaming Chair,34,F,8,1205.99,0.1,8683.13,7084.18,1598.95,False,Cash
+1018,2025-10-05,North,Vanadzor,Anna,Food,Snacks,Protein Bar,21,F,5,548.16,0.0,2740.8,1926.0,814.8,False,Card
+1019,2026-04-28,Center,Gyumri,Sona,Electronics,Phones,iPhone 15,56,M,2,1689.66,0.03,3277.94,2102.21,1175.73,True,Cash
+1020,2025-11-27,East,Goris,Maria,Clothing,Shoes,Running Shoes,22,M,6,600.52,0.1,3242.81,1769.95,1472.86,False,Transfer
+1021,2026-03-28,North,Gyumri,Maria,Electronics,Phones,Pixel 10,36,M,4,1267.18,0.03,4916.66,4064.31,852.35,False,Transfer
+1022,2025-03-10,East,Yerevan,Anna,Clothing,T-Shirts,Basic Tee,65,M,5,2329.73,0.0,11648.65,9652.37,1996.28,False,Cash
+1023,2025-05-09,North,Yerevan,Karen,Furniture,Sofas,Mini Sofa,45,F,4,1720.31,0.05,6537.18,4424.97,2112.21,True,Card
+1024,2025-10-15,North,Yerevan,Anna,Clothing,Jackets,Leather Jacket,62,M,3,1854.37,0.15,4728.64,3532.22,1196.42,True,Cash
+1025,2025-04-18,South,Yerevan,Maria,Furniture,Tables,Dining Table,53,F,1,774.1,0.0,774.1,630.6,143.5,False,Card
+1026,2025-07-30,South,Vanadzor,David,Furniture,Chairs,Gaming Chair,62,M,1,452.5,0.05,429.88,332.66,97.22,False,Card
+1027,2025-12-04,South,Goris,Maria,Food,Snacks,Protein Bar,35,M,8,877.4,0.03,6808.62,3935.54,2873.08,False,Cash
+1028,2026-05-08,East,Yerevan,Anna,Food,Coffee,Espresso Pack,56,F,1,292.78,0.05,278.14,156.45,121.69,False,Transfer
+1029,2025-12-29,West,Yerevan,Sona,Clothing,Shoes,Running Shoes,52,M,7,2249.26,0.03,15272.48,8997.83,6274.65,False,Cash
+1030,2025-06-03,Center,Vanadzor,Karen,Electronics,Tablets,Galaxy Tab,44,F,6,1660.15,0.0,9960.9,7489.74,2471.16,False,Transfer
+1031,2026-04-08,South,Dilijan,Sona,Clothing,T-Shirts,Basic Tee,37,F,4,1054.01,0.1,3794.44,2796.73,997.71,True,Cash
+1032,2025-09-19,West,Gyumri,Karen,Clothing,Jackets,Leather Jacket,23,F,6,1165.15,0.1,6291.81,4633.73,1658.08,False,Card
+1033,2025-05-06,West,Dilijan,Anna,Furniture,Sofas,Mini Sofa,47,F,4,2017.37,0.03,7827.4,3980.62,3846.78,False,Transfer
+1034,2026-01-20,North,Goris,David,Food,Drinks,Orange Juice,29,F,4,373.19,0.2,1194.21,599.42,594.79,True,Transfer
+1035,2025-10-14,Center,Vanadzor,Arman,Furniture,Chairs,Gaming Chair,57,F,3,2004.53,0.2,4810.87,3299.76,1511.11,False,Card
+1036,2025-09-24,West,Gyumri,Maria,Food,Drinks,Orange Juice,46,M,4,2100.46,0.05,7981.75,6130.26,1851.49,False,Card
+1037,2025-03-20,South,Yerevan,Arman,Clothing,Shoes,Boots,44,F,2,350.24,0.03,679.47,430.83,248.64,False,Cash
+1038,2025-01-11,Center,Goris,Arman,Electronics,Phones,Galaxy S25,18,F,7,2262.57,0.15,13462.29,11188.8,2273.49,False,Cash
+1039,2025-07-19,East,Goris,Karen,Food,Coffee,Arabica Beans,28,F,8,552.46,0.1,3977.71,2664.97,1312.74,False,Transfer
+1040,2025-08-25,South,Yerevan,Maria,Electronics,Laptops,Lenovo ThinkPad,42,F,1,214.45,0.1,193.0,105.67,87.33,False,Cash
+1041,2025-02-11,West,Yerevan,Karen,Clothing,Shoes,Boots,52,M,5,1881.26,0.1,8465.67,4980.31,3485.36,False,Card
+1042,2025-11-15,South,Gyumri,David,Electronics,Tablets,iPad Air,48,M,1,2374.28,0.03,2303.05,1828.0,475.05,False,Cash
+1043,2025-02-25,Center,Yerevan,Maria,Clothing,Shoes,Running Shoes,54,F,2,1945.59,0.03,3774.44,3161.67,612.77,False,Transfer
+1044,2025-11-04,North,Dilijan,Anna,Furniture,Chairs,Office Chair,40,F,2,1744.5,0.05,3314.55,2643.69,670.86,False,Card
+1045,2026-03-01,West,Gyumri,Arman,Clothing,Jackets,Leather Jacket,29,F,8,268.32,0.05,2039.23,1473.25,565.98,False,Cash
+1046,2025-08-19,South,Goris,Sona,Food,Coffee,Espresso Pack,57,F,6,2130.02,0.0,12780.12,7637.72,5142.4,False,Card
+1047,2026-03-27,Center,Vanadzor,Sona,Food,Drinks,Cola,18,M,8,534.24,0.05,4060.22,2513.76,1546.46,True,Card
+1048,2025-01-09,North,Vanadzor,David,Food,Drinks,Cola,43,M,8,1616.53,0.1,11639.02,7645.22,3993.8,False,Transfer
+1049,2025-12-26,West,Vanadzor,Maria,Clothing,Shoes,Boots,34,M,7,2491.6,0.15,14825.02,9128.91,5696.11,True,Transfer
+1050,2026-01-06,Center,Dilijan,Sona,Furniture,Tables,Dining Table,36,M,3,482.89,0.2,1158.94,775.87,383.07,False,Cash
+1051,2025-01-24,North,Dilijan,Maria,Furniture,Tables,Dining Table,62,M,5,40.3,0.15,171.28,93.23,78.05,False,Card
+1052,2025-01-27,East,Goris,Anna,Electronics,Tablets,Galaxy Tab,22,F,8,1199.39,0.05,9115.36,5145.87,3969.49,False,Card
+1053,2026-01-27,West,Dilijan,Sona,Electronics,Phones,iPhone 15,57,M,5,217.53,0.03,1055.02,571.25,483.77,False,Cash
+1054,2026-01-14,North,Gyumri,Karen,Food,Drinks,Orange Juice,31,F,5,1423.73,0.0,7118.65,5078.24,2040.41,True,Card
+1055,2025-08-29,East,Yerevan,David,Furniture,Chairs,Office Chair,36,F,3,11.68,0.1,31.54,23.38,8.16,False,Card
+1056,2026-04-11,East,Gyumri,Anna,Furniture,Tables,Dining Table,21,M,7,291.37,0.03,1978.4,1437.65,540.75,False,Transfer
+1057,2025-05-20,Center,Dilijan,Arman,Clothing,Shoes,Running Shoes,46,M,8,1723.25,0.2,11028.8,7068.12,3960.68,True,Cash
+1058,2025-10-22,Center,Yerevan,Karen,Clothing,T-Shirts,Sport Tee,35,M,1,232.86,0.2,186.29,147.65,38.64,False,Cash
+1059,2025-08-29,East,Goris,Maria,Food,Drinks,Cola,38,M,7,1588.79,0.1,10009.38,8399.56,1609.82,False,Cash
+1060,2025-10-09,North,Goris,Anna,Food,Coffee,Espresso Pack,38,F,5,1658.15,0.1,7461.68,5855.54,1606.14,False,Card
+1061,2025-11-15,West,Goris,Anna,Food,Coffee,Arabica Beans,31,F,8,1036.05,0.03,8039.75,5478.72,2561.03,False,Cash
+1062,2025-05-03,South,Vanadzor,Sona,Food,Coffee,Espresso Pack,18,F,2,77.03,0.2,123.25,87.89,35.36,True,Card
+1063,2025-12-28,East,Goris,Arman,Electronics,Laptops,MacBook Air,48,M,3,1248.45,0.2,2996.28,1804.21,1192.07,False,Transfer
+1064,2026-03-14,West,Vanadzor,Sona,Furniture,Tables,Dining Table,35,M,3,2160.75,0.05,6158.14,4744.45,1413.69,False,Transfer
+1065,2025-10-10,Center,Goris,Arman,Clothing,T-Shirts,Sport Tee,38,M,3,1119.14,0.1,3021.68,1875.84,1145.84,False,Transfer
+1066,2026-02-20,West,Goris,Karen,Food,Snacks,Nachos,59,M,1,798.85,0.1,718.97,536.95,182.02,False,Card
+1067,2026-04-12,West,Yerevan,Karen,Furniture,Sofas,Mini Sofa,27,F,2,2186.1,0.1,3934.98,2104.82,1830.16,False,Card
+1068,2026-03-16,Center,Goris,Maria,Food,Drinks,Orange Juice,58,F,7,1626.34,0.05,10815.16,8633.95,2181.21,True,Transfer
+1069,2026-05-16,North,Yerevan,Arman,Electronics,Phones,Pixel 10,28,F,5,2493.58,0.2,9974.32,5302.68,4671.64,True,Card
+1070,2025-07-30,Center,Gyumri,David,Clothing,Jackets,Leather Jacket,29,M,6,940.23,0.03,5472.14,3203.77,2268.37,False,Transfer
+1071,2025-12-08,North,Goris,Maria,Furniture,Tables,Dining Table,61,M,4,1155.57,0.05,4391.17,2901.9,1489.27,True,Cash
+1072,2025-04-12,West,Goris,Anna,Clothing,T-Shirts,Sport Tee,33,F,7,1727.33,0.1,10882.18,8660.65,2221.53,False,Transfer
+1073,2025-01-05,Center,Yerevan,Sona,Clothing,T-Shirts,Sport Tee,65,F,1,2444.97,0.2,1955.98,1248.96,707.02,False,Card
+1074,2025-12-15,South,Yerevan,Karen,Clothing,Jackets,Winter Jacket,59,M,5,1696.02,0.2,6784.08,5214.34,1569.74,False,Cash
+1075,2025-08-01,South,Gyumri,David,Electronics,Tablets,Galaxy Tab,52,F,3,229.88,0.05,655.16,402.5,252.66,False,Card
+1076,2025-03-14,South,Goris,Sona,Clothing,Shoes,Boots,41,M,6,2011.56,0.1,10862.42,9091.98,1770.44,False,Card
+1077,2025-10-27,West,Vanadzor,Anna,Clothing,T-Shirts,Basic Tee,61,M,8,924.62,0.2,5917.57,4351.3,1566.27,False,Card
+1078,2025-06-04,West,Yerevan,David,Clothing,T-Shirts,Basic Tee,20,M,2,1590.33,0.1,2862.59,2342.42,520.17,False,Cash
+1079,2026-01-16,Center,Goris,Sona,Electronics,Phones,iPhone 15,65,M,3,974.67,0.05,2777.81,2040.77,737.04,False,Transfer
+1080,2025-07-09,South,Goris,Arman,Electronics,Laptops,Lenovo ThinkPad,33,F,7,2347.94,0.05,15613.8,7985.69,7628.11,True,Transfer
+1081,2026-05-01,West,Yerevan,Karen,Clothing,T-Shirts,Sport Tee,31,M,1,998.36,0.03,968.41,812.37,156.04,True,Cash
+1082,2025-04-21,South,Vanadzor,David,Furniture,Chairs,Office Chair,56,M,2,2075.4,0.15,3528.18,2019.9,1508.28,False,Card
+1083,2025-07-03,South,Dilijan,Maria,Furniture,Sofas,Mini Sofa,19,M,3,279.27,0.0,837.81,457.55,380.26,False,Card
+1084,2025-07-05,Center,Dilijan,Anna,Furniture,Sofas,Mini Sofa,46,M,2,1865.43,0.1,3357.77,2205.71,1152.06,True,Transfer
+1085,2025-02-25,West,Goris,Anna,Clothing,Shoes,Running Shoes,23,F,1,2496.47,0.1,2246.82,1458.63,788.19,False,Card
+1086,2025-09-16,Center,Goris,Anna,Furniture,Tables,Work Desk,62,M,7,2486.6,0.15,14795.27,8924.72,5870.55,False,Cash
+1087,2025-02-18,East,Goris,Maria,Food,Snacks,Nachos,60,F,6,2069.41,0.1,11174.81,7214.42,3960.39,False,Card
+1088,2025-07-10,South,Dilijan,Anna,Food,Snacks,Protein Bar,55,F,2,237.61,0.0,475.22,361.46,113.76,True,Cash
+1089,2025-02-23,Center,Dilijan,David,Clothing,T-Shirts,Sport Tee,27,F,1,2421.15,0.15,2057.98,1254.04,803.94,False,Card
+1090,2025-08-08,Center,Dilijan,Sona,Clothing,T-Shirts,Sport Tee,61,M,2,1907.7,0.15,3243.09,1878.25,1364.84,False,Card
+1091,2025-10-17,West,Yerevan,David,Furniture,Tables,Work Desk,65,M,6,880.8,0.03,5126.26,4123.83,1002.43,True,Transfer
+1092,2025-06-16,Center,Dilijan,Anna,Furniture,Tables,Work Desk,21,M,8,855.54,0.05,6502.1,3960.25,2541.85,False,Transfer
+1093,2025-08-15,West,Vanadzor,David,Electronics,Tablets,iPad Air,50,M,5,1110.57,0.1,4997.56,3348.27,1649.29,False,Cash
+1094,2025-07-22,Center,Yerevan,Anna,Electronics,Laptops,Lenovo ThinkPad,31,F,8,1319.7,0.05,10029.72,5174.29,4855.43,False,Card
+1095,2025-03-08,West,Dilijan,Karen,Clothing,Shoes,Boots,32,F,2,24.29,0.2,38.86,25.29,13.57,True,Cash
+1096,2025-10-21,West,Goris,Maria,Electronics,Laptops,MacBook Air,25,F,8,2303.3,0.05,17505.08,12280.09,5224.99,True,Cash
+1097,2025-10-29,West,Dilijan,Anna,Furniture,Sofas,Mini Sofa,43,F,6,224.88,0.0,1349.28,789.55,559.73,False,Card
+1098,2025-06-28,East,Gyumri,David,Clothing,Jackets,Winter Jacket,24,M,2,1328.86,0.03,2577.99,2106.41,471.58,False,Card
+1099,2026-01-22,Center,Dilijan,Arman,Furniture,Sofas,Corner Sofa,61,F,2,446.98,0.2,715.17,481.27,233.9,False,Card
+1100,2025-06-30,Center,Yerevan,Maria,Food,Snacks,Nachos,47,F,8,1580.31,0.05,12010.36,8491.29,3519.07,True,Card
+1101,2025-10-25,Center,Yerevan,Arman,Clothing,Shoes,Running Shoes,54,M,2,1539.45,0.15,2617.07,1660.71,956.36,False,Transfer
+1102,2025-02-13,Center,Gyumri,Anna,Food,Coffee,Arabica Beans,33,F,1,1129.06,0.05,1072.61,905.11,167.5,False,Transfer
+1103,2025-01-27,East,Yerevan,Maria,Furniture,Tables,Work Desk,24,F,5,971.6,0.05,4615.1,3404.16,1210.94,False,Cash
+1104,2025-12-24,West,Gyumri,Sona,Furniture,Tables,Dining Table,63,M,3,2292.28,0.05,6533.0,5479.19,1053.81,False,Transfer
+1105,2026-04-13,Center,Yerevan,Karen,Food,Coffee,Espresso Pack,60,F,3,1676.94,0.2,4024.66,3416.97,607.69,False,Card
+1106,2025-03-12,South,Yerevan,Maria,Clothing,Shoes,Running Shoes,24,M,4,857.62,0.1,3087.43,1751.2,1336.23,False,Transfer
+1107,2026-02-19,South,Goris,Anna,Furniture,Sofas,Mini Sofa,44,F,3,409.81,0.2,983.54,757.21,226.33,False,Cash
+1108,2026-02-06,West,Gyumri,Maria,Clothing,T-Shirts,Sport Tee,61,F,4,1337.36,0.05,5081.97,4258.48,823.49,False,Cash
+1109,2025-05-09,North,Goris,Maria,Food,Coffee,Espresso Pack,53,M,3,2043.14,0.15,5210.01,2857.38,2352.63,True,Cash
+1110,2025-02-16,South,Goris,Maria,Electronics,Phones,Galaxy S25,19,F,8,2263.74,0.03,17566.62,13892.85,3673.77,True,Cash
+1111,2025-02-20,East,Gyumri,David,Clothing,Jackets,Leather Jacket,20,F,2,940.41,0.0,1880.82,1150.2,730.62,False,Transfer
+1112,2025-04-21,South,Dilijan,Karen,Furniture,Sofas,Mini Sofa,56,F,8,1540.29,0.0,12322.32,6243.12,6079.2,True,Cash
+1113,2025-08-23,North,Yerevan,Arman,Furniture,Tables,Dining Table,56,M,1,599.91,0.2,479.93,373.32,106.61,False,Transfer
+1114,2025-04-06,North,Dilijan,Maria,Furniture,Tables,Work Desk,22,M,1,1538.95,0.03,1492.78,1044.55,448.23,False,Cash
+1115,2025-02-04,East,Gyumri,Karen,Electronics,Tablets,Galaxy Tab,60,M,6,637.86,0.0,3827.16,2391.91,1435.25,False,Card
+1116,2025-12-17,West,Goris,Karen,Electronics,Laptops,Lenovo ThinkPad,29,M,6,2034.7,0.03,11841.95,9362.65,2479.3,True,Transfer
+1117,2025-06-11,East,Dilijan,Arman,Food,Snacks,Nachos,52,F,4,114.3,0.03,443.48,359.23,84.25,False,Card
+1118,2026-02-14,East,Goris,Arman,Furniture,Tables,Work Desk,65,F,1,2165.17,0.05,2056.91,1225.15,831.76,False,Cash
+1119,2025-02-12,West,Yerevan,Arman,Furniture,Tables,Work Desk,56,M,6,2311.15,0.15,11786.87,6993.77,4793.1,False,Cash
+1120,2025-03-27,West,Vanadzor,Arman,Electronics,Phones,Galaxy S25,20,F,5,769.71,0.15,3271.27,2457.32,813.95,False,Cash
+1121,2026-05-03,North,Gyumri,Sona,Electronics,Phones,Pixel 10,61,F,7,911.46,0.2,5104.18,3765.83,1338.35,True,Card
+1122,2025-03-20,West,Vanadzor,Maria,Electronics,Phones,Pixel 10,46,M,6,908.57,0.15,4633.71,2369.38,2264.33,False,Transfer
+1123,2025-04-06,West,Dilijan,Arman,Clothing,Shoes,Boots,53,M,5,627.78,0.0,3138.9,1597.92,1540.98,False,Cash
+1124,2025-08-20,South,Goris,Anna,Food,Snacks,Nachos,61,F,8,504.44,0.03,3914.45,3125.65,788.8,False,Transfer
+1125,2026-04-20,South,Vanadzor,Sona,Electronics,Tablets,Surface Go,32,M,5,2228.87,0.03,10810.02,8098.14,2711.88,False,Card
+1126,2025-10-10,South,Dilijan,Anna,Furniture,Tables,Dining Table,22,F,6,1387.28,0.05,7907.5,5247.35,2660.15,False,Transfer
+1127,2025-06-12,North,Goris,Arman,Food,Coffee,Espresso Pack,61,F,7,2059.23,0.0,14414.61,7839.59,6575.02,False,Transfer
+1128,2025-03-26,South,Vanadzor,Karen,Furniture,Chairs,Gaming Chair,32,F,1,2079.32,0.15,1767.42,978.36,789.06,False,Card
+1129,2025-09-15,South,Dilijan,Sona,Clothing,Jackets,Leather Jacket,27,M,3,1564.43,0.15,3989.3,2739.52,1249.78,False,Transfer
+1130,2025-04-18,Center,Goris,Sona,Electronics,Phones,iPhone 15,58,M,1,2371.62,0.15,2015.88,1194.67,821.21,False,Transfer
+1131,2025-08-21,North,Yerevan,David,Clothing,T-Shirts,Sport Tee,46,F,8,615.97,0.2,3942.21,2531.42,1410.79,False,Cash
+1132,2026-03-17,East,Goris,David,Furniture,Tables,Dining Table,41,M,6,2154.41,0.05,12280.14,9295.7,2984.44,False,Card
+1133,2026-04-30,West,Dilijan,Arman,Food,Snacks,Nachos,33,M,8,623.56,0.0,4988.48,2582.6,2405.88,False,Transfer
+1134,2025-06-07,West,Yerevan,Anna,Clothing,Jackets,Winter Jacket,43,F,8,2489.94,0.1,17927.57,12093.33,5834.24,False,Card
+1135,2025-05-27,Center,Yerevan,Anna,Clothing,Jackets,Winter Jacket,45,M,5,1239.76,0.2,4959.04,3646.79,1312.25,False,Transfer
+1136,2025-07-05,Center,Vanadzor,Anna,Clothing,Shoes,Boots,42,F,1,1004.45,0.15,853.78,594.77,259.01,False,Transfer
+1137,2025-07-07,South,Gyumri,Sona,Electronics,Phones,iPhone 15,50,F,7,936.13,0.05,6225.26,4328.06,1897.2,True,Card
+1138,2025-11-07,Center,Gyumri,Maria,Electronics,Phones,Pixel 10,57,F,6,2010.89,0.15,10255.54,6768.1,3487.44,False,Cash
+1139,2025-01-09,East,Vanadzor,Karen,Clothing,T-Shirts,Sport Tee,25,F,8,1773.31,0.05,13477.16,8978.65,4498.51,False,Transfer
+1140,2026-01-05,North,Dilijan,Arman,Electronics,Tablets,Galaxy Tab,28,F,5,2417.84,0.15,10275.82,7215.39,3060.43,False,Transfer
+1141,2025-07-31,South,Goris,Sona,Furniture,Chairs,Office Chair,57,F,4,52.25,0.05,198.55,128.38,70.17,True,Transfer
+1142,2025-06-10,South,Goris,Sona,Furniture,Sofas,Corner Sofa,39,F,6,2495.32,0.1,13474.73,9215.6,4259.13,False,Transfer
+1143,2025-06-02,East,Gyumri,Karen,Food,Snacks,Protein Bar,63,F,5,1397.43,0.03,6777.54,5622.1,1155.44,False,Cash
+1144,2026-04-04,West,Vanadzor,David,Clothing,T-Shirts,Sport Tee,36,M,5,309.08,0.2,1236.32,853.21,383.11,False,Transfer
+1145,2025-10-03,East,Dilijan,Karen,Electronics,Laptops,Dell XPS,35,M,5,1869.61,0.03,9067.61,5175.1,3892.51,True,Transfer
+1146,2025-06-19,West,Yerevan,Karen,Furniture,Chairs,Office Chair,26,M,4,1596.67,0.0,6386.68,3417.32,2969.36,False,Cash
+1147,2026-01-29,North,Dilijan,David,Food,Drinks,Cola,52,M,5,806.31,0.2,3225.24,1679.4,1545.84,False,Cash
+1148,2026-04-20,East,Yerevan,Anna,Furniture,Chairs,Gaming Chair,37,M,8,469.85,0.2,3007.04,2516.13,490.91,False,Cash
+1149,2026-02-19,North,Vanadzor,David,Food,Coffee,Espresso Pack,64,F,3,2128.39,0.1,5746.65,3422.09,2324.56,False,Transfer
+1150,2026-03-15,West,Goris,Sona,Furniture,Chairs,Gaming Chair,38,M,5,1421.61,0.03,6894.81,3870.91,3023.9,False,Transfer
+1151,2025-07-16,South,Goris,Maria,Electronics,Phones,iPhone 15,39,F,8,812.39,0.03,6304.15,3167.15,3137.0,True,Cash
+1152,2025-07-27,Center,Vanadzor,Karen,Clothing,T-Shirts,Basic Tee,25,F,1,1671.13,0.1,1504.02,913.52,590.5,False,Transfer
+1153,2025-07-11,West,Dilijan,Arman,Furniture,Chairs,Office Chair,52,M,8,387.2,0.2,2478.08,2096.69,381.39,False,Transfer
+1154,2026-03-01,Center,Dilijan,David,Electronics,Tablets,Galaxy Tab,54,M,6,199.87,0.15,1019.34,549.7,469.64,False,Cash
+1155,2025-01-29,West,Gyumri,Sona,Food,Snacks,Protein Bar,44,F,8,231.9,0.15,1576.92,1034.33,542.59,True,Transfer
+1156,2025-10-24,North,Yerevan,Arman,Food,Coffee,Espresso Pack,40,M,1,992.89,0.0,992.89,755.62,237.27,True,Card
+1157,2026-05-16,West,Vanadzor,Arman,Food,Snacks,Nachos,46,F,7,454.05,0.03,3083.0,2367.87,715.13,False,Card
+1158,2025-03-07,South,Yerevan,Anna,Furniture,Sofas,Mini Sofa,37,F,2,450.29,0.15,765.49,488.05,277.44,False,Transfer
+1159,2026-03-25,North,Yerevan,Karen,Food,Snacks,Protein Bar,44,M,8,868.67,0.05,6601.89,3736.46,2865.43,False,Card
+1160,2025-01-25,South,Yerevan,Arman,Electronics,Phones,Pixel 10,46,M,1,1118.87,0.2,895.1,667.88,227.22,False,Card
+1161,2025-10-23,Center,Vanadzor,David,Furniture,Sofas,Mini Sofa,37,M,4,2040.39,0.2,6529.25,4581.17,1948.08,False,Cash
+1162,2025-01-25,East,Goris,Sona,Clothing,Shoes,Running Shoes,38,F,3,1566.85,0.1,4230.49,2938.28,1292.21,False,Card
+1163,2025-12-29,South,Goris,Anna,Clothing,Shoes,Running Shoes,53,F,8,606.22,0.03,4704.27,2847.3,1856.97,False,Transfer
+1164,2025-08-19,East,Yerevan,Sona,Furniture,Tables,Dining Table,64,M,5,512.33,0.2,2049.32,1081.37,967.95,True,Cash
+1165,2025-10-14,South,Goris,David,Food,Coffee,Arabica Beans,39,F,2,474.47,0.15,806.6,607.78,198.82,True,Card
+1166,2025-04-15,West,Gyumri,Sona,Furniture,Sofas,Corner Sofa,38,F,8,2286.53,0.2,14633.79,10412.53,4221.26,False,Cash
+1167,2026-02-16,West,Vanadzor,David,Clothing,Shoes,Boots,41,F,6,1284.48,0.1,6936.19,4599.4,2336.79,False,Card
+1168,2025-08-02,East,Gyumri,David,Furniture,Sofas,Corner Sofa,39,M,1,655.63,0.15,557.29,391.61,165.68,False,Transfer
+1169,2025-11-25,West,Goris,David,Furniture,Tables,Work Desk,64,F,5,1909.58,0.1,8593.11,7203.41,1389.7,False,Card
+1170,2025-12-09,North,Yerevan,Arman,Food,Snacks,Protein Bar,26,M,1,2098.48,0.0,2098.48,1743.45,355.03,True,Transfer
+1171,2026-04-24,Center,Goris,Karen,Furniture,Chairs,Office Chair,49,M,8,936.14,0.15,6365.75,4603.74,1762.01,True,Transfer
+1172,2026-02-21,West,Gyumri,Anna,Food,Snacks,Protein Bar,24,M,5,1341.67,0.05,6372.93,3224.7,3148.23,False,Card
+1173,2025-05-05,South,Vanadzor,Karen,Clothing,Shoes,Boots,23,M,7,202.15,0.1,1273.55,841.37,432.18,True,Cash
+1174,2025-09-13,West,Vanadzor,Sona,Food,Drinks,Orange Juice,24,M,1,1593.69,0.2,1274.95,713.95,561.0,False,Card
+1175,2025-10-16,North,Gyumri,Maria,Food,Drinks,Cola,19,M,2,1712.65,0.05,3254.03,2651.25,602.78,False,Transfer
+1176,2025-07-19,Center,Vanadzor,Arman,Food,Snacks,Nachos,65,M,3,1412.08,0.15,3600.8,2852.29,748.51,True,Transfer
+1177,2026-01-29,Center,Dilijan,Arman,Clothing,Jackets,Winter Jacket,38,M,7,584.2,0.0,4089.4,2532.19,1557.21,False,Cash
+1178,2025-07-14,North,Dilijan,Maria,Food,Snacks,Nachos,33,M,7,1082.46,0.2,6061.78,4273.9,1787.88,True,Cash
+1179,2026-04-28,East,Goris,Maria,Furniture,Tables,Dining Table,35,M,7,795.11,0.0,5565.77,2961.17,2604.6,False,Card
+1180,2025-02-17,Center,Dilijan,Maria,Furniture,Tables,Work Desk,42,M,7,262.72,0.0,1839.04,1147.32,691.72,False,Cash
+1181,2025-06-04,East,Goris,David,Food,Snacks,Protein Bar,22,M,3,1714.86,0.03,4990.24,2737.62,2252.62,False,Cash
+1182,2025-09-11,Center,Dilijan,David,Food,Drinks,Orange Juice,47,M,2,906.01,0.03,1757.66,1322.31,435.35,False,Cash
+1183,2025-08-09,Center,Gyumri,Maria,Electronics,Laptops,Dell XPS,38,M,7,2011.17,0.05,13374.28,8747.82,4626.46,False,Cash
+1184,2025-10-22,South,Vanadzor,Arman,Furniture,Tables,Work Desk,35,F,5,1838.51,0.2,7354.04,4940.83,2413.21,False,Card
+1185,2025-04-18,West,Vanadzor,Karen,Furniture,Sofas,Corner Sofa,22,F,1,2382.75,0.1,2144.47,1780.0,364.47,False,Card
+1186,2025-11-03,West,Dilijan,Arman,Clothing,Jackets,Leather Jacket,52,F,3,1789.51,0.1,4831.68,2540.92,2290.76,True,Cash
+1187,2025-11-27,West,Vanadzor,Arman,Electronics,Phones,iPhone 15,24,M,6,420.01,0.15,2142.05,1104.24,1037.81,True,Cash
+1188,2025-10-29,Center,Gyumri,Maria,Furniture,Sofas,Corner Sofa,19,F,8,938.43,0.1,6756.7,5204.82,1551.88,True,Cash
+1189,2025-04-16,Center,Goris,Maria,Food,Snacks,Protein Bar,48,M,3,874.08,0.05,2491.13,1642.57,848.56,False,Transfer
+1190,2026-03-11,East,Yerevan,Karen,Food,Drinks,Cola,28,M,5,116.48,0.2,465.92,251.73,214.19,False,Transfer
+1191,2025-04-06,West,Goris,Anna,Furniture,Tables,Work Desk,65,M,8,583.48,0.1,4201.06,3026.51,1174.55,False,Transfer
+1192,2025-02-02,Center,Yerevan,Sona,Food,Drinks,Cola,29,F,4,518.43,0.2,1658.98,1299.07,359.91,False,Card
+1193,2025-07-18,Center,Goris,Sona,Food,Snacks,Nachos,25,F,8,1321.65,0.2,8458.56,5157.11,3301.45,False,Cash
+1194,2025-06-06,North,Gyumri,Maria,Furniture,Sofas,Mini Sofa,62,M,2,1681.91,0.05,3195.63,1729.64,1465.99,False,Cash
+1195,2026-04-16,South,Dilijan,David,Furniture,Sofas,Mini Sofa,49,F,7,468.46,0.2,2623.38,1805.1,818.28,False,Card
+1196,2026-02-22,West,Dilijan,Sona,Clothing,Shoes,Running Shoes,59,F,6,2379.85,0.1,12851.19,7039.72,5811.47,False,Transfer
+1197,2026-01-25,South,Vanadzor,Anna,Food,Drinks,Orange Juice,35,M,8,422.3,0.15,2871.64,1466.84,1404.8,False,Card
+1198,2026-02-26,East,Dilijan,Anna,Food,Coffee,Espresso Pack,64,F,2,1433.92,0.05,2724.45,2101.34,623.11,False,Cash
+1199,2025-06-28,North,Goris,Anna,Electronics,Tablets,Surface Go,33,M,4,747.78,0.0,2991.12,1966.38,1024.74,False,Transfer
+1200,2025-09-30,East,Dilijan,Sona,Food,Snacks,Protein Bar,28,F,4,2034.76,0.0,8139.04,5693.47,2445.57,False,Cash
+1201,2025-05-22,South,Gyumri,David,Clothing,T-Shirts,Basic Tee,27,F,3,2407.12,0.1,6499.22,5339.56,1159.66,False,Transfer
+1202,2025-11-21,North,Goris,Sona,Food,Drinks,Cola,65,F,5,1571.39,0.1,7071.26,4654.28,2416.98,False,Cash
+1203,2025-12-24,East,Yerevan,Sona,Food,Drinks,Cola,43,M,2,1828.68,0.1,3291.62,2377.19,914.43,False,Card
+1204,2026-03-13,West,Vanadzor,Karen,Food,Drinks,Orange Juice,21,M,5,847.7,0.15,3602.72,1966.03,1636.69,True,Transfer
+1205,2025-08-08,South,Gyumri,Karen,Food,Snacks,Protein Bar,37,M,3,1106.01,0.0,3318.03,2810.85,507.18,False,Card
+1206,2025-07-22,East,Gyumri,Arman,Clothing,Shoes,Running Shoes,59,M,6,1662.95,0.2,7982.16,4453.52,3528.64,True,Card
+1207,2025-01-05,North,Vanadzor,Anna,Furniture,Tables,Dining Table,45,M,3,1486.23,0.15,3789.89,2796.92,992.97,False,Card
+1208,2025-03-12,West,Gyumri,Karen,Furniture,Tables,Dining Table,61,M,2,262.49,0.05,498.73,403.15,95.58,True,Transfer
+1209,2026-01-19,South,Goris,Sona,Electronics,Tablets,Surface Go,61,F,3,1103.05,0.2,2647.32,1521.07,1126.25,False,Card
+1210,2025-03-13,South,Vanadzor,Karen,Electronics,Phones,iPhone 15,23,M,7,882.08,0.1,5557.1,3390.25,2166.85,False,Transfer
+1211,2025-07-20,East,Yerevan,David,Electronics,Tablets,Galaxy Tab,49,F,4,1296.78,0.15,4409.05,2495.64,1913.41,True,Card
+1212,2026-03-17,Center,Goris,Maria,Food,Coffee,Arabica Beans,52,M,1,2467.27,0.05,2343.91,1280.23,1063.68,False,Card
+1213,2026-05-01,West,Dilijan,Maria,Electronics,Tablets,iPad Air,58,F,1,659.15,0.0,659.15,542.42,116.73,False,Transfer
+1214,2025-04-15,South,Dilijan,Maria,Food,Snacks,Protein Bar,43,M,5,213.57,0.0,1067.85,725.02,342.83,False,Transfer
+1215,2025-11-10,Center,Yerevan,Maria,Food,Coffee,Arabica Beans,60,M,1,614.98,0.1,553.48,299.21,254.27,True,Card
+1216,2026-02-05,East,Gyumri,Maria,Furniture,Sofas,Corner Sofa,26,F,3,1243.55,0.05,3544.12,2420.82,1123.3,True,Card
+1217,2025-09-12,West,Dilijan,Maria,Clothing,Shoes,Boots,21,F,2,661.06,0.15,1123.8,808.73,315.07,False,Cash
+1218,2026-03-16,North,Gyumri,Anna,Furniture,Tables,Dining Table,48,F,2,574.87,0.15,977.28,489.52,487.76,False,Card
+1219,2025-06-13,East,Yerevan,Sona,Furniture,Chairs,Gaming Chair,41,M,4,807.9,0.1,2908.44,2386.52,521.92,True,Card
+1220,2026-02-01,East,Vanadzor,Anna,Furniture,Sofas,Corner Sofa,53,F,7,176.97,0.1,1114.91,895.4,219.51,True,Cash
+1221,2026-01-31,South,Dilijan,David,Furniture,Tables,Work Desk,27,M,4,1162.5,0.15,3952.5,3320.69,631.81,False,Card
+1222,2025-07-12,East,Yerevan,David,Furniture,Sofas,Mini Sofa,51,M,1,2377.72,0.0,2377.72,1820.44,557.28,False,Cash
+1223,2025-09-24,West,Vanadzor,Arman,Electronics,Phones,Pixel 10,65,M,5,237.1,0.03,1149.93,936.1,213.83,True,Transfer
+1224,2026-05-09,South,Gyumri,Maria,Furniture,Sofas,Mini Sofa,34,F,2,1481.78,0.0,2963.56,1932.96,1030.6,False,Transfer
+1225,2026-01-30,Center,Yerevan,David,Clothing,Shoes,Boots,24,M,5,587.86,0.03,2851.12,1561.38,1289.74,False,Cash
+1226,2025-08-26,East,Yerevan,Anna,Clothing,Shoes,Running Shoes,28,F,6,2411.76,0.03,14036.44,9238.38,4798.06,True,Card
+1227,2025-12-13,East,Vanadzor,David,Clothing,Jackets,Winter Jacket,19,F,4,2421.16,0.1,8716.18,5924.48,2791.7,False,Transfer
+1228,2025-02-01,South,Gyumri,David,Furniture,Chairs,Gaming Chair,43,F,2,2010.72,0.03,3900.8,2116.22,1784.58,True,Transfer
+1229,2025-03-07,North,Vanadzor,Anna,Clothing,Jackets,Winter Jacket,20,F,2,498.39,0.2,797.42,522.47,274.95,True,Card
+1230,2025-07-01,South,Gyumri,Maria,Food,Coffee,Espresso Pack,35,F,8,78.56,0.2,502.78,326.47,176.31,False,Card
+1231,2025-02-14,East,Goris,David,Furniture,Sofas,Mini Sofa,44,M,8,1032.92,0.15,7023.86,4689.56,2334.3,False,Transfer
+1232,2025-10-17,Center,Vanadzor,Arman,Electronics,Laptops,Lenovo ThinkPad,35,M,6,1201.81,0.1,6489.77,4026.33,2463.44,True,Cash
+1233,2026-01-28,Center,Gyumri,David,Furniture,Chairs,Gaming Chair,24,M,1,2022.59,0.1,1820.33,1247.47,572.86,False,Cash
+1234,2025-10-31,East,Vanadzor,Sona,Electronics,Phones,Pixel 10,19,F,7,890.24,0.03,6044.73,3394.93,2649.8,False,Transfer
+1235,2025-11-05,South,Yerevan,Sona,Furniture,Tables,Work Desk,48,M,3,1228.64,0.0,3685.92,1915.42,1770.5,False,Transfer
+1236,2025-03-17,Center,Gyumri,Anna,Furniture,Chairs,Gaming Chair,51,F,3,2297.36,0.05,6547.48,3410.22,3137.26,True,Cash
+1237,2026-01-10,West,Goris,Karen,Food,Coffee,Arabica Beans,38,M,6,757.9,0.03,4410.98,3712.07,698.91,False,Card
+1238,2025-12-26,Center,Goris,Sona,Furniture,Tables,Work Desk,20,M,5,322.73,0.2,1290.92,646.27,644.65,False,Transfer
+1239,2025-06-27,East,Gyumri,Karen,Furniture,Sofas,Corner Sofa,23,F,8,355.91,0.2,2277.82,1200.94,1076.88,False,Card
+1240,2025-01-25,West,Goris,Karen,Clothing,Jackets,Winter Jacket,44,M,2,879.45,0.0,1758.9,1322.95,435.95,False,Cash
+1241,2025-12-18,South,Gyumri,Arman,Food,Drinks,Orange Juice,22,M,2,2072.87,0.15,3523.88,2564.82,959.06,False,Card
+1242,2025-02-08,Center,Yerevan,Maria,Clothing,Shoes,Running Shoes,56,F,2,857.81,0.1,1544.06,858.99,685.07,True,Cash
+1243,2025-04-08,West,Dilijan,Karen,Furniture,Sofas,Mini Sofa,64,F,3,138.62,0.05,395.07,225.96,169.11,False,Cash
+1244,2025-07-04,North,Goris,Anna,Furniture,Chairs,Office Chair,36,F,7,1431.57,0.1,9018.89,4994.27,4024.62,False,Card
+1245,2025-06-07,West,Goris,Arman,Electronics,Phones,iPhone 15,60,F,5,2442.76,0.1,10992.42,8742.48,2249.94,True,Transfer
+1246,2025-08-14,West,Vanadzor,David,Food,Snacks,Nachos,35,M,7,926.66,0.1,5837.96,3010.15,2827.81,False,Transfer
+1247,2025-10-29,South,Dilijan,Anna,Electronics,Phones,Pixel 10,42,F,6,2021.41,0.1,10915.61,9166.35,1749.26,False,Transfer
+1248,2025-10-20,Center,Dilijan,Karen,Furniture,Tables,Work Desk,57,M,2,990.04,0.2,1584.06,811.28,772.78,True,Cash
+1249,2025-12-16,West,Gyumri,Karen,Furniture,Chairs,Office Chair,27,F,4,319.83,0.1,1151.39,607.28,544.11,False,Transfer
+1250,2026-04-15,North,Dilijan,Sona,Electronics,Phones,Galaxy S25,51,F,7,1382.38,0.05,9192.83,6268.51,2924.32,True,Cash
+1251,2026-03-21,Center,Vanadzor,Arman,Furniture,Chairs,Office Chair,34,F,2,1408.9,0.0,2817.8,2183.83,633.97,False,Transfer
+1252,2025-12-22,West,Yerevan,Arman,Food,Snacks,Protein Bar,39,M,5,1010.42,0.15,4294.28,3061.95,1232.33,True,Transfer
+1253,2026-03-08,West,Yerevan,David,Food,Drinks,Orange Juice,26,F,1,847.98,0.05,805.58,490.46,315.12,False,Cash
+1254,2025-07-28,West,Dilijan,Maria,Clothing,T-Shirts,Sport Tee,21,M,2,473.9,0.03,919.37,753.61,165.76,True,Cash
+1255,2025-05-08,North,Goris,Anna,Food,Snacks,Protein Bar,41,M,3,485.94,0.03,1414.09,1121.29,292.8,False,Cash
+1256,2025-11-01,West,Gyumri,Arman,Food,Coffee,Espresso Pack,55,F,2,1704.53,0.03,3306.79,2084.48,1222.31,False,Card
+1257,2025-10-20,South,Gyumri,Karen,Clothing,T-Shirts,Basic Tee,32,M,5,73.49,0.0,367.45,204.68,162.77,False,Transfer
+1258,2025-11-04,North,Gyumri,Maria,Food,Coffee,Arabica Beans,56,F,1,1187.87,0.03,1152.23,837.19,315.04,False,Cash
+1259,2026-02-27,Center,Goris,Sona,Food,Drinks,Orange Juice,24,M,5,549.43,0.05,2609.79,1923.46,686.33,False,Transfer
+1260,2026-03-18,East,Vanadzor,Karen,Clothing,Shoes,Running Shoes,63,F,8,164.27,0.05,1248.45,904.14,344.31,False,Card
+1261,2025-09-12,East,Vanadzor,Arman,Furniture,Chairs,Gaming Chair,43,F,6,1703.49,0.2,8176.75,4161.22,4015.53,True,Transfer
+1262,2025-06-03,South,Dilijan,David,Furniture,Tables,Dining Table,36,M,8,2266.78,0.2,14507.39,9074.0,5433.39,False,Card
+1263,2026-01-17,East,Goris,Maria,Clothing,T-Shirts,Basic Tee,41,F,6,1637.81,0.03,9532.05,5951.33,3580.72,False,Cash
+1264,2026-03-21,West,Dilijan,Maria,Electronics,Laptops,MacBook Air,44,M,2,1183.19,0.03,2295.39,1549.77,745.62,False,Card
+1265,2025-02-11,West,Vanadzor,Karen,Furniture,Tables,Work Desk,29,F,8,362.34,0.2,2318.98,1305.88,1013.1,True,Card
+1266,2026-01-26,North,Gyumri,Sona,Food,Drinks,Cola,45,F,3,1442.82,0.03,4198.61,2818.75,1379.86,False,Cash
+1267,2025-01-08,East,Dilijan,David,Food,Drinks,Cola,19,M,1,1336.79,0.2,1069.43,674.37,395.06,False,Card
+1268,2025-02-03,North,Vanadzor,Maria,Clothing,Shoes,Running Shoes,47,F,2,961.96,0.15,1635.33,992.87,642.46,False,Transfer
+1269,2026-04-16,West,Yerevan,David,Furniture,Tables,Work Desk,32,M,6,1876.54,0.03,10921.46,9084.79,1836.67,False,Transfer
+1270,2025-01-20,West,Vanadzor,Sona,Electronics,Tablets,Surface Go,57,M,3,312.29,0.2,749.5,545.4,204.1,True,Transfer
+1271,2025-03-05,Center,Vanadzor,Arman,Electronics,Tablets,iPad Air,62,M,1,1725.93,0.1,1553.34,1018.23,535.11,False,Transfer
+1272,2025-12-25,South,Goris,Anna,Electronics,Laptops,Dell XPS,50,M,2,1657.89,0.05,3149.99,2261.63,888.36,False,Card
+1273,2025-07-03,West,Vanadzor,David,Electronics,Laptops,MacBook Air,20,F,4,1946.01,0.15,6616.43,5561.72,1054.71,False,Transfer
+1274,2026-03-04,Center,Goris,David,Food,Drinks,Cola,23,M,1,36.81,0.0,36.81,30.09,6.72,True,Cash
+1275,2026-03-24,North,Vanadzor,Maria,Furniture,Tables,Work Desk,61,F,5,1163.37,0.0,5816.85,4563.97,1252.88,False,Transfer
+1276,2025-06-18,East,Goris,Sona,Electronics,Phones,iPhone 15,35,M,1,2130.74,0.2,1704.59,1238.42,466.17,False,Cash
+1277,2025-12-20,West,Goris,Karen,Furniture,Chairs,Gaming Chair,28,M,7,2405.96,0.05,15999.63,12679.67,3319.96,False,Transfer
+1278,2025-12-14,West,Gyumri,Sona,Electronics,Phones,iPhone 15,42,F,7,2278.51,0.1,14354.61,11207.97,3146.64,True,Transfer
+1279,2025-05-14,East,Yerevan,Karen,Furniture,Tables,Work Desk,61,M,2,2219.55,0.1,3995.19,2061.88,1933.31,False,Transfer
+1280,2025-07-17,South,Dilijan,Sona,Electronics,Laptops,Lenovo ThinkPad,21,M,4,1207.41,0.2,3863.71,2846.41,1017.3,False,Transfer
+1281,2026-05-12,East,Yerevan,Sona,Food,Drinks,Cola,32,F,2,1879.82,0.05,3571.66,2086.96,1484.7,False,Card
+1282,2025-03-02,West,Yerevan,Anna,Electronics,Laptops,Dell XPS,43,F,8,224.61,0.1,1617.19,1061.64,555.55,True,Transfer
+1283,2025-12-10,West,Vanadzor,Maria,Electronics,Phones,Pixel 10,21,M,5,2225.83,0.15,9459.78,5414.76,4045.02,False,Cash
+1284,2025-06-24,East,Vanadzor,Sona,Food,Coffee,Espresso Pack,51,F,8,289.49,0.2,1852.74,1070.16,782.58,True,Card
+1285,2025-03-03,West,Gyumri,Arman,Furniture,Tables,Dining Table,30,F,7,271.87,0.15,1617.63,919.74,697.89,True,Cash
+1286,2025-10-29,Center,Gyumri,Arman,Electronics,Tablets,Surface Go,18,M,2,1931.5,0.1,3476.7,2294.92,1181.78,False,Transfer
+1287,2025-12-03,Center,Dilijan,Maria,Food,Coffee,Arabica Beans,50,F,3,1827.58,0.03,5318.26,2851.88,2466.38,False,Transfer
+1288,2025-03-12,West,Dilijan,Karen,Furniture,Tables,Work Desk,65,F,6,2426.38,0.1,13102.45,10241.91,2860.54,False,Transfer
+1289,2025-12-30,South,Dilijan,Sona,Furniture,Chairs,Office Chair,62,F,5,1718.1,0.2,6872.4,3755.32,3117.08,True,Cash
+1290,2025-09-25,North,Yerevan,Arman,Food,Coffee,Espresso Pack,27,M,5,2194.31,0.1,9874.4,7730.73,2143.67,True,Card
+1291,2025-06-01,South,Dilijan,Anna,Clothing,Jackets,Leather Jacket,40,F,5,370.34,0.0,1851.7,1373.42,478.28,True,Transfer
+1292,2025-12-07,North,Goris,Arman,Furniture,Sofas,Mini Sofa,44,F,4,1279.75,0.2,4095.2,2459.88,1635.32,True,Card
+1293,2025-07-08,Center,Dilijan,Karen,Clothing,Jackets,Leather Jacket,56,M,4,2279.16,0.2,7293.31,5457.88,1835.43,False,Cash
+1294,2025-07-13,North,Goris,Maria,Food,Snacks,Protein Bar,53,F,3,2406.38,0.2,5775.31,3926.32,1848.99,False,Card
+1295,2026-04-21,East,Dilijan,Anna,Clothing,Jackets,Leather Jacket,58,F,8,1775.67,0.03,13779.2,7082.22,6696.98,False,Transfer
+1296,2025-09-16,South,Goris,Sona,Clothing,Jackets,Leather Jacket,52,F,4,2392.68,0.15,8135.11,4261.67,3873.44,True,Cash
+1297,2025-11-13,Center,Goris,Sona,Furniture,Chairs,Gaming Chair,59,M,6,905.19,0.03,5268.21,4386.35,881.86,True,Transfer
+1298,2025-07-15,North,Goris,Maria,Clothing,Shoes,Running Shoes,52,F,4,2397.45,0.2,7671.84,6214.05,1457.79,True,Transfer
+1299,2025-09-21,North,Yerevan,David,Clothing,T-Shirts,Sport Tee,52,M,8,114.41,0.2,732.22,415.45,316.77,True,Card
+1300,2026-01-15,West,Yerevan,Karen,Furniture,Sofas,Mini Sofa,61,M,2,517.92,0.2,828.67,669.17,159.5,True,Cash
+1301,2025-10-22,South,Vanadzor,Arman,Clothing,Jackets,Winter Jacket,42,F,2,140.4,0.05,266.76,185.49,81.27,False,Cash
+1302,2025-02-02,Center,Yerevan,Karen,Clothing,Jackets,Leather Jacket,22,F,2,1339.41,0.2,2143.06,1611.8,531.26,True,Cash
+1303,2026-02-25,North,Goris,David,Clothing,T-Shirts,Basic Tee,52,M,5,1914.36,0.1,8614.62,5457.32,3157.3,False,Transfer
+1304,2026-05-06,North,Dilijan,Sona,Food,Coffee,Espresso Pack,27,M,3,748.65,0.2,1796.76,1305.85,490.91,True,Card
+1305,2025-06-26,South,Goris,Karen,Food,Coffee,Arabica Beans,50,M,5,529.08,0.2,2116.32,1727.43,388.89,False,Card
+1306,2026-03-13,North,Dilijan,Arman,Furniture,Sofas,Mini Sofa,59,M,4,290.98,0.2,931.14,726.18,204.96,False,Transfer
+1307,2025-07-02,South,Gyumri,Anna,Electronics,Laptops,MacBook Air,36,M,4,1815.35,0.1,6535.26,5444.13,1091.13,False,Cash
+1308,2025-07-06,East,Goris,David,Food,Drinks,Orange Juice,18,F,5,1735.18,0.03,8415.62,5873.62,2542.0,False,Card
+1309,2025-08-25,West,Vanadzor,Maria,Food,Drinks,Orange Juice,49,M,3,1700.55,0.05,4846.57,3912.44,934.13,False,Transfer
+1310,2025-02-08,North,Dilijan,Karen,Electronics,Laptops,MacBook Air,19,F,4,661.77,0.2,2117.66,1115.5,1002.16,False,Card
+1311,2025-10-29,East,Gyumri,Arman,Clothing,T-Shirts,Sport Tee,50,M,3,917.72,0.03,2670.57,2168.51,502.06,False,Cash
+1312,2025-04-02,Center,Dilijan,Karen,Electronics,Tablets,iPad Air,27,F,3,1894.23,0.03,5512.21,3616.99,1895.22,False,Card
+1313,2025-04-16,Center,Vanadzor,Arman,Furniture,Tables,Dining Table,48,F,2,664.57,0.03,1289.27,663.95,625.32,True,Card
+1314,2025-12-01,West,Vanadzor,Sona,Clothing,Jackets,Leather Jacket,59,M,5,1448.69,0.15,6156.93,3453.1,2703.83,False,Cash
+1315,2025-09-04,Center,Yerevan,Sona,Furniture,Sofas,Mini Sofa,26,F,6,2044.01,0.05,11650.86,7810.75,3840.11,False,Card
+1316,2025-11-05,North,Gyumri,Arman,Electronics,Tablets,Surface Go,39,M,5,532.74,0.03,2583.79,1434.2,1149.59,False,Transfer
+1317,2025-01-23,South,Dilijan,Sona,Food,Drinks,Cola,28,M,3,1619.91,0.1,4373.76,2221.24,2152.52,True,Transfer
+1318,2025-11-03,Center,Yerevan,Karen,Furniture,Chairs,Office Chair,64,F,5,2306.5,0.15,9802.62,8188.95,1613.67,True,Card
+1319,2026-02-11,Center,Gyumri,Sona,Food,Coffee,Espresso Pack,60,F,8,430.56,0.1,3100.03,2201.93,898.1,False,Transfer
+1320,2025-04-14,Center,Dilijan,Karen,Clothing,Shoes,Running Shoes,44,M,4,948.64,0.03,3680.72,1980.23,1700.49,True,Card
+1321,2025-11-05,Center,Yerevan,Karen,Food,Coffee,Arabica Beans,59,F,2,237.51,0.2,380.02,207.34,172.68,False,Cash
+1322,2025-07-15,East,Dilijan,Karen,Electronics,Tablets,Surface Go,62,M,7,577.57,0.1,3638.69,2824.88,813.81,False,Card
+1323,2025-04-07,North,Yerevan,Sona,Clothing,Shoes,Running Shoes,51,M,2,711.75,0.15,1209.97,778.04,431.93,True,Cash
+1324,2025-10-27,East,Vanadzor,Sona,Furniture,Sofas,Mini Sofa,45,F,7,908.86,0.03,6171.16,4005.85,2165.31,False,Transfer
+1325,2025-05-10,East,Dilijan,Maria,Food,Snacks,Nachos,63,F,8,450.91,0.15,3066.19,2128.61,937.58,False,Transfer
+1326,2025-09-18,West,Vanadzor,Sona,Electronics,Tablets,iPad Air,57,M,8,1958.86,0.03,15200.75,8133.88,7066.87,False,Cash
+1327,2025-05-15,South,Vanadzor,Anna,Electronics,Phones,iPhone 15,56,M,8,2315.03,0.1,16668.22,8848.31,7819.91,False,Cash
+1328,2026-03-12,Center,Vanadzor,David,Clothing,T-Shirts,Basic Tee,20,M,3,1602.53,0.1,4326.83,2179.63,2147.2,False,Transfer
+1329,2026-02-04,West,Vanadzor,Karen,Electronics,Laptops,MacBook Air,43,F,1,2439.24,0.0,2439.24,2070.64,368.6,False,Transfer
+1330,2026-03-01,Center,Dilijan,Maria,Electronics,Tablets,Surface Go,40,F,2,2298.35,0.15,3907.19,2342.64,1564.55,False,Transfer
+1331,2025-10-14,North,Dilijan,Maria,Furniture,Tables,Work Desk,39,M,1,656.46,0.1,590.81,400.09,190.72,False,Transfer
+1332,2026-05-08,West,Goris,Sona,Clothing,T-Shirts,Sport Tee,19,F,7,1410.11,0.03,9574.65,7325.71,2248.94,True,Cash
+1333,2025-07-31,East,Dilijan,Sona,Electronics,Laptops,Lenovo ThinkPad,18,F,4,1693.9,0.03,6572.33,5126.79,1445.54,False,Cash
+1334,2025-07-01,South,Dilijan,Maria,Electronics,Laptops,Lenovo ThinkPad,29,M,6,194.69,0.03,1133.1,755.54,377.56,False,Transfer
+1335,2026-03-05,Center,Vanadzor,David,Furniture,Chairs,Office Chair,24,M,5,520.91,0.03,2526.41,2001.5,524.91,True,Transfer
+1336,2025-09-10,Center,Vanadzor,Arman,Food,Coffee,Arabica Beans,29,F,1,2120.79,0.05,2014.75,1445.05,569.7,False,Card
+1337,2025-07-21,South,Goris,Anna,Furniture,Chairs,Gaming Chair,62,F,8,2349.44,0.0,18795.52,12703.26,6092.26,False,Transfer
+1338,2025-11-10,East,Gyumri,Sona,Electronics,Phones,Pixel 10,34,M,4,951.67,0.0,3806.68,2336.93,1469.75,False,Cash
+1339,2025-07-10,East,Goris,Maria,Clothing,Shoes,Running Shoes,46,M,8,1062.74,0.1,7651.73,5702.45,1949.28,False,Transfer
+1340,2026-02-14,South,Goris,Anna,Furniture,Chairs,Gaming Chair,29,F,4,1390.57,0.1,5006.05,2846.55,2159.5,False,Card
+1341,2025-02-20,South,Yerevan,David,Clothing,Shoes,Boots,34,F,5,1407.54,0.15,5982.05,3090.91,2891.14,True,Cash
+1342,2025-07-30,North,Vanadzor,Karen,Clothing,Shoes,Boots,56,M,6,1403.07,0.05,7997.5,4962.04,3035.46,False,Cash
+1343,2025-08-26,South,Gyumri,Karen,Clothing,Shoes,Boots,39,F,8,2224.63,0.1,16017.34,11448.91,4568.43,False,Card
+1344,2025-05-17,Center,Goris,Maria,Electronics,Phones,Galaxy S25,46,F,4,787.14,0.2,2518.85,1516.28,1002.57,False,Cash
+1345,2026-01-16,North,Gyumri,David,Furniture,Chairs,Office Chair,43,M,3,1820.79,0.2,4369.9,2569.84,1800.06,True,Card
+1346,2025-02-12,North,Vanadzor,Sona,Food,Coffee,Arabica Beans,27,M,1,1928.48,0.15,1639.21,1258.5,380.71,False,Cash
+1347,2025-03-29,North,Yerevan,Karen,Furniture,Chairs,Gaming Chair,40,F,8,1568.07,0.03,12168.22,8327.44,3840.78,False,Cash
+1348,2025-10-30,Center,Goris,Karen,Clothing,T-Shirts,Sport Tee,65,F,3,2424.01,0.2,5817.62,4006.89,1810.73,False,Cash
+1349,2025-03-21,East,Yerevan,Anna,Food,Coffee,Arabica Beans,51,M,2,1107.44,0.05,2104.14,1355.64,748.5,False,Cash
+1350,2026-01-28,West,Vanadzor,Sona,Food,Coffee,Arabica Beans,32,M,8,2367.66,0.1,17047.15,10311.2,6735.95,False,Card
+1351,2025-07-19,West,Gyumri,Maria,Food,Coffee,Espresso Pack,23,F,7,628.49,0.2,3519.54,2667.78,851.76,False,Transfer
+1352,2025-05-29,North,Goris,Sona,Clothing,Shoes,Boots,46,F,7,474.06,0.0,3318.42,1871.07,1447.35,False,Card
+1353,2025-02-22,East,Vanadzor,David,Clothing,Jackets,Winter Jacket,63,F,1,2424.44,0.0,2424.44,1370.0,1054.44,True,Card
+1354,2026-02-14,West,Vanadzor,Arman,Electronics,Phones,iPhone 15,62,M,8,546.88,0.1,3937.54,2398.17,1539.37,False,Card
+1355,2026-04-04,East,Goris,Anna,Furniture,Chairs,Gaming Chair,25,M,7,183.1,0.1,1153.53,650.08,503.45,False,Cash
+1356,2025-04-17,West,Goris,Karen,Furniture,Sofas,Corner Sofa,37,F,4,1154.78,0.0,4619.12,3152.08,1467.04,False,Transfer
+1357,2025-07-04,North,Gyumri,Anna,Electronics,Tablets,Surface Go,33,F,2,637.02,0.2,1019.23,616.21,403.02,False,Card
+1358,2025-10-25,West,Dilijan,David,Furniture,Tables,Dining Table,41,M,7,1973.91,0.0,13817.37,11594.05,2223.32,False,Card
+1359,2025-10-02,North,Gyumri,Arman,Food,Snacks,Nachos,32,F,1,154.14,0.2,123.31,68.3,55.01,False,Cash
+1360,2025-09-06,West,Dilijan,Maria,Furniture,Chairs,Gaming Chair,52,F,6,1812.38,0.05,10330.57,8414.58,1915.99,False,Transfer
+1361,2025-11-03,Center,Gyumri,Anna,Furniture,Sofas,Mini Sofa,51,M,6,1832.34,0.05,10444.34,8393.92,2050.42,False,Cash
+1362,2026-01-11,South,Yerevan,Sona,Clothing,T-Shirts,Sport Tee,41,M,8,6.8,0.2,43.52,29.47,14.05,False,Transfer
+1363,2025-10-10,South,Dilijan,Maria,Electronics,Tablets,Surface Go,38,F,7,478.72,0.2,2680.83,1807.26,873.57,False,Card
+1364,2025-01-17,South,Yerevan,Arman,Electronics,Tablets,Surface Go,30,M,2,114.22,0.03,221.59,124.65,96.94,True,Transfer
+1365,2025-02-06,North,Gyumri,Karen,Food,Coffee,Espresso Pack,49,M,5,127.47,0.03,618.23,440.23,178.0,False,Transfer
+1366,2025-11-12,East,Dilijan,Anna,Electronics,Laptops,Lenovo ThinkPad,64,M,7,2055.96,0.2,11513.38,5991.62,5521.76,False,Card
+1367,2025-04-09,Center,Gyumri,Sona,Furniture,Sofas,Corner Sofa,58,M,2,1814.3,0.15,3084.31,1958.12,1126.19,False,Transfer
+1368,2026-03-29,North,Gyumri,David,Electronics,Tablets,Surface Go,53,F,6,1687.86,0.2,8101.73,5937.23,2164.5,False,Transfer
+1369,2025-06-16,East,Goris,Karen,Furniture,Sofas,Mini Sofa,45,F,6,2256.7,0.15,11509.17,9748.41,1760.76,False,Transfer
+1370,2025-01-01,North,Vanadzor,Sona,Furniture,Tables,Work Desk,19,M,6,2404.32,0.1,12983.33,10853.27,2130.06,False,Card
+1371,2026-04-16,Center,Dilijan,Sona,Clothing,Jackets,Winter Jacket,54,M,6,59.14,0.2,283.87,223.64,60.23,True,Card
+1372,2025-05-12,East,Yerevan,Sona,Food,Drinks,Cola,43,M,3,666.15,0.15,1698.68,997.89,700.79,True,Transfer
+1373,2026-02-24,North,Dilijan,Karen,Clothing,Shoes,Running Shoes,37,M,8,2065.13,0.2,13216.83,9859.71,3357.12,False,Card
+1374,2025-04-27,Center,Yerevan,Karen,Electronics,Laptops,Dell XPS,58,F,7,1044.22,0.0,7309.54,5879.98,1429.56,True,Cash
+1375,2025-01-26,West,Goris,Sona,Electronics,Laptops,Lenovo ThinkPad,54,M,3,820.44,0.2,1969.06,1136.7,832.36,False,Cash
+1376,2025-01-26,Center,Goris,Maria,Clothing,Shoes,Running Shoes,23,F,3,843.74,0.1,2278.1,1594.68,683.42,False,Transfer
+1377,2025-10-15,Center,Dilijan,David,Furniture,Chairs,Gaming Chair,33,M,4,1222.21,0.2,3911.07,2737.62,1173.45,False,Cash
+1378,2025-04-08,East,Vanadzor,Sona,Clothing,T-Shirts,Basic Tee,59,M,2,1681.01,0.1,3025.82,1899.74,1126.08,False,Card
+1379,2025-07-11,South,Yerevan,Anna,Clothing,T-Shirts,Sport Tee,65,M,3,1103.96,0.03,3212.52,1830.78,1381.74,False,Transfer
+1380,2025-08-30,North,Vanadzor,David,Furniture,Tables,Dining Table,65,M,6,1736.02,0.0,10416.12,6320.41,4095.71,False,Transfer
+1381,2025-10-26,Center,Yerevan,Maria,Clothing,T-Shirts,Sport Tee,28,M,3,1739.2,0.2,4174.08,2113.9,2060.18,False,Card
+1382,2026-03-13,East,Yerevan,Anna,Clothing,Jackets,Leather Jacket,36,F,1,171.16,0.2,136.93,81.47,55.46,False,Cash
+1383,2025-10-15,North,Yerevan,David,Electronics,Laptops,Dell XPS,51,F,2,470.11,0.15,799.19,670.02,129.17,False,Cash
+1384,2025-06-04,South,Dilijan,Maria,Food,Coffee,Arabica Beans,21,F,1,870.22,0.05,826.71,516.18,310.53,False,Card
+1385,2026-01-09,West,Dilijan,Karen,Clothing,Jackets,Winter Jacket,57,M,6,2243.45,0.2,10768.56,5901.61,4866.95,False,Card
+1386,2025-03-12,Center,Dilijan,Karen,Furniture,Tables,Work Desk,30,M,6,1125.68,0.03,6551.46,3749.83,2801.63,False,Transfer
+1387,2026-01-04,North,Gyumri,Maria,Furniture,Tables,Dining Table,27,M,3,797.15,0.15,2032.73,1395.54,637.19,False,Cash
+1388,2025-04-05,North,Dilijan,Sona,Food,Drinks,Orange Juice,35,M,5,384.13,0.03,1863.03,1001.14,861.89,False,Card
+1389,2025-11-29,East,Gyumri,Arman,Electronics,Laptops,MacBook Air,49,F,8,339.55,0.15,2308.94,1533.29,775.65,False,Card
+1390,2026-05-02,West,Gyumri,Karen,Furniture,Chairs,Office Chair,60,M,7,1912.52,0.0,13387.64,11030.11,2357.53,False,Card
+1391,2026-02-02,North,Dilijan,Karen,Furniture,Tables,Work Desk,42,F,6,2167.6,0.03,12615.43,8195.54,4419.89,False,Transfer
+1392,2025-05-06,Center,Dilijan,Arman,Electronics,Tablets,iPad Air,65,M,8,1144.97,0.0,9159.76,7393.97,1765.79,False,Transfer
+1393,2025-05-27,West,Gyumri,Arman,Electronics,Phones,Galaxy S25,36,M,8,998.11,0.05,7585.64,5846.91,1738.73,False,Cash
+1394,2025-07-21,West,Vanadzor,Arman,Food,Snacks,Protein Bar,19,M,3,1947.93,0.2,4675.03,3231.58,1443.45,False,Transfer
+1395,2026-02-12,South,Yerevan,Anna,Furniture,Tables,Dining Table,25,F,5,813.57,0.2,3254.28,2660.4,593.88,False,Card
+1396,2026-04-13,East,Dilijan,Karen,Food,Coffee,Arabica Beans,27,M,7,1378.11,0.0,9646.77,7417.32,2229.45,False,Card
+1397,2025-04-03,North,Gyumri,David,Electronics,Laptops,Dell XPS,18,F,5,1826.75,0.1,8220.38,4941.05,3279.33,True,Cash
+1398,2025-08-21,West,Goris,Anna,Food,Drinks,Cola,56,M,8,598.51,0.15,4069.87,2974.32,1095.55,False,Transfer
+1399,2025-01-19,South,Yerevan,Karen,Clothing,T-Shirts,Basic Tee,54,F,1,466.18,0.0,466.18,339.68,126.5,False,Card
+1400,2025-12-21,Center,Dilijan,Sona,Electronics,Phones,Galaxy S25,29,F,3,407.53,0.05,1161.46,829.14,332.32,False,Card
+1401,2026-03-08,Center,Yerevan,Maria,Electronics,Laptops,Dell XPS,48,M,6,2244.34,0.0,13466.04,10307.64,3158.4,True,Transfer
+1402,2025-10-20,Center,Yerevan,Arman,Clothing,Shoes,Boots,64,F,4,1741.09,0.15,5919.71,3080.41,2839.3,False,Transfer
+1403,2025-11-20,West,Goris,David,Clothing,Shoes,Boots,57,M,3,1537.65,0.1,4151.66,2831.0,1320.66,False,Card
+1404,2025-04-17,Center,Goris,Arman,Electronics,Phones,iPhone 15,20,F,8,1565.52,0.0,12524.16,9494.74,3029.42,False,Transfer
+1405,2025-09-17,Center,Vanadzor,Anna,Furniture,Chairs,Office Chair,25,F,5,639.77,0.0,3198.85,1944.01,1254.84,False,Cash
+1406,2025-08-31,North,Gyumri,Arman,Electronics,Phones,iPhone 15,27,F,6,2085.39,0.2,10009.87,6683.47,3326.4,False,Cash
+1407,2025-10-02,North,Gyumri,Sona,Food,Coffee,Arabica Beans,61,F,5,1414.53,0.2,5658.12,3453.86,2204.26,False,Card
+1408,2025-03-26,Center,Dilijan,Arman,Furniture,Tables,Dining Table,29,M,6,2459.13,0.2,11803.82,8109.17,3694.65,False,Transfer
+1409,2025-07-10,West,Vanadzor,David,Clothing,T-Shirts,Basic Tee,51,F,5,1037.6,0.1,4669.2,3767.89,901.31,False,Card
+1410,2026-04-09,Center,Gyumri,David,Clothing,Jackets,Winter Jacket,39,F,2,1112.22,0.0,2224.44,1734.3,490.14,False,Cash
+1411,2026-03-19,Center,Yerevan,Anna,Furniture,Chairs,Office Chair,37,M,4,1812.8,0.1,6526.08,4148.34,2377.74,True,Cash
+1412,2025-04-18,East,Gyumri,David,Food,Snacks,Protein Bar,36,F,5,61.09,0.05,290.18,209.97,80.21,False,Cash
+1413,2025-10-14,Center,Yerevan,David,Electronics,Laptops,MacBook Air,52,F,3,687.72,0.0,2063.16,1723.57,339.59,False,Cash
+1414,2025-06-23,Center,Goris,Anna,Furniture,Sofas,Mini Sofa,26,M,4,432.33,0.05,1642.85,1174.05,468.8,False,Transfer
+1415,2025-11-02,Center,Goris,Sona,Electronics,Phones,Galaxy S25,40,F,1,219.87,0.1,197.88,111.34,86.54,False,Card
+1416,2025-08-22,East,Goris,Arman,Electronics,Laptops,Lenovo ThinkPad,32,M,3,236.83,0.2,568.39,377.35,191.04,False,Transfer
+1417,2026-03-17,East,Goris,Arman,Clothing,Shoes,Boots,19,M,3,1750.54,0.2,4201.3,2586.38,1614.92,False,Card
+1418,2025-03-07,Center,Yerevan,Arman,Clothing,Shoes,Boots,63,M,3,709.23,0.05,2021.31,1438.27,583.04,False,Transfer
+1419,2025-05-05,Center,Gyumri,Arman,Electronics,Laptops,Lenovo ThinkPad,42,M,8,1005.04,0.1,7236.29,4222.38,3013.91,False,Card
+1420,2026-04-22,Center,Goris,Anna,Food,Drinks,Orange Juice,55,F,4,436.85,0.2,1397.92,737.07,660.85,False,Transfer
+1421,2025-12-17,Center,Goris,Maria,Electronics,Laptops,MacBook Air,49,M,5,2389.93,0.0,11949.65,8476.97,3472.68,True,Card
+1422,2025-07-19,Center,Dilijan,Arman,Furniture,Sofas,Corner Sofa,30,M,3,1653.9,0.1,4465.53,3063.08,1402.45,False,Cash
+1423,2025-07-26,South,Vanadzor,Anna,Clothing,Shoes,Boots,41,M,2,1458.9,0.15,2480.13,2096.32,383.81,True,Transfer
+1424,2025-11-17,East,Goris,Arman,Clothing,Jackets,Leather Jacket,42,F,1,591.93,0.2,473.54,334.58,138.96,False,Transfer
+1425,2025-03-20,East,Gyumri,David,Furniture,Tables,Dining Table,18,M,4,1390.78,0.05,5284.96,4196.19,1088.77,True,Card
+1426,2026-03-17,West,Dilijan,Arman,Food,Coffee,Espresso Pack,57,M,3,216.24,0.2,518.98,405.88,113.1,False,Transfer
+1427,2025-01-04,Center,Goris,Karen,Food,Coffee,Espresso Pack,33,F,7,891.49,0.03,6053.22,3926.54,2126.68,False,Transfer
+1428,2026-05-08,North,Gyumri,Karen,Clothing,Jackets,Winter Jacket,64,F,8,1763.68,0.0,14109.44,9920.26,4189.18,False,Transfer
+1429,2026-05-07,North,Dilijan,Sona,Electronics,Tablets,Surface Go,37,M,2,616.85,0.2,986.96,749.69,237.27,False,Transfer
+1430,2026-05-07,East,Vanadzor,David,Electronics,Laptops,Dell XPS,20,F,8,1437.04,0.05,10921.5,7070.09,3851.41,False,Card
+1431,2025-11-16,North,Vanadzor,Arman,Food,Coffee,Arabica Beans,23,M,1,1642.52,0.05,1560.39,1221.96,338.43,True,Cash
+1432,2025-11-06,South,Dilijan,Karen,Clothing,Jackets,Leather Jacket,27,F,5,2145.36,0.0,10726.8,8147.01,2579.79,False,Card
+1433,2025-06-25,North,Gyumri,Sona,Clothing,T-Shirts,Basic Tee,27,F,8,456.12,0.15,3101.62,2486.58,615.04,False,Cash
+1434,2025-01-28,East,Yerevan,Anna,Furniture,Sofas,Mini Sofa,28,F,3,531.09,0.2,1274.62,1012.87,261.75,False,Cash
+1435,2025-03-16,Center,Goris,Anna,Clothing,Shoes,Running Shoes,36,F,7,1710.36,0.1,10775.27,7177.48,3597.79,False,Transfer
+1436,2026-03-09,West,Dilijan,Karen,Clothing,T-Shirts,Basic Tee,35,F,2,2294.69,0.2,3671.5,2290.43,1381.07,False,Cash
+1437,2026-01-11,Center,Gyumri,Sona,Electronics,Laptops,Lenovo ThinkPad,39,M,7,1155.47,0.2,6470.63,4931.8,1538.83,False,Transfer
+1438,2025-12-17,West,Vanadzor,David,Electronics,Tablets,iPad Air,64,F,2,34.84,0.0,69.68,47.65,22.03,False,Card
+1439,2026-03-04,South,Dilijan,Karen,Electronics,Phones,Pixel 10,25,M,2,146.92,0.15,249.76,182.28,67.48,True,Transfer
+1440,2025-12-05,North,Goris,Maria,Furniture,Tables,Dining Table,45,F,2,1740.66,0.05,3307.25,1994.6,1312.65,False,Card
+1441,2026-02-21,East,Gyumri,Arman,Electronics,Laptops,MacBook Air,22,F,7,974.53,0.0,6821.71,4027.43,2794.28,False,Transfer
+1442,2025-11-26,North,Goris,Karen,Food,Snacks,Nachos,34,M,2,363.96,0.1,655.13,377.64,277.49,True,Card
+1443,2025-03-18,North,Yerevan,Karen,Electronics,Tablets,Surface Go,42,F,5,1944.21,0.0,9721.05,7910.79,1810.26,False,Transfer
+1444,2026-02-04,North,Dilijan,David,Clothing,Shoes,Running Shoes,18,F,8,1197.96,0.1,8625.31,6860.72,1764.59,False,Card
+1445,2025-10-01,East,Yerevan,Arman,Clothing,Shoes,Boots,36,M,7,142.71,0.2,799.18,424.95,374.23,False,Transfer
+1446,2025-11-19,East,Goris,Anna,Electronics,Laptops,Lenovo ThinkPad,58,F,4,750.68,0.1,2702.45,2199.15,503.3,False,Card
+1447,2025-11-26,East,Goris,Sona,Electronics,Phones,iPhone 15,46,M,4,1225.64,0.0,4902.56,3811.54,1091.02,True,Cash
+1448,2025-12-08,Center,Goris,Karen,Electronics,Laptops,Lenovo ThinkPad,52,M,1,1016.74,0.03,986.24,771.72,214.52,False,Card
+1449,2025-11-13,North,Gyumri,Karen,Electronics,Tablets,iPad Air,59,M,8,1636.31,0.1,11781.43,9631.47,2149.96,True,Card
+1450,2026-02-23,North,Yerevan,Arman,Electronics,Laptops,MacBook Air,56,M,8,1530.01,0.15,10404.07,5434.93,4969.14,True,Card
+1451,2025-03-12,East,Gyumri,Anna,Food,Drinks,Orange Juice,55,M,6,306.4,0.2,1470.72,1031.84,438.88,False,Card
+1452,2025-08-13,South,Dilijan,Anna,Electronics,Laptops,MacBook Air,26,M,7,424.29,0.05,2821.53,1957.27,864.26,False,Card
+1453,2025-10-31,East,Goris,Karen,Electronics,Laptops,MacBook Air,48,M,1,23.02,0.0,23.02,17.2,5.82,False,Card
+1454,2025-01-20,Center,Gyumri,Karen,Clothing,T-Shirts,Sport Tee,49,M,7,601.94,0.03,4087.17,2916.97,1170.2,False,Cash
+1455,2025-11-13,East,Dilijan,Sona,Food,Snacks,Protein Bar,32,F,4,298.18,0.15,1013.81,853.5,160.31,False,Cash
+1456,2025-03-23,North,Yerevan,Karen,Electronics,Phones,iPhone 15,41,F,3,1714.68,0.1,4629.64,3120.98,1508.66,False,Cash
+1457,2025-04-01,South,Yerevan,Arman,Clothing,Shoes,Boots,50,M,1,265.53,0.0,265.53,218.72,46.81,True,Card
+1458,2025-04-28,North,Vanadzor,David,Food,Coffee,Espresso Pack,24,M,7,500.88,0.2,2804.93,2284.42,520.51,False,Card
+1459,2025-03-16,South,Dilijan,Arman,Food,Snacks,Protein Bar,29,F,8,1464.81,0.0,11718.48,9511.55,2206.93,False,Card
+1460,2025-01-17,Center,Yerevan,Maria,Food,Coffee,Arabica Beans,26,M,6,2439.01,0.03,14195.04,8766.32,5428.72,False,Cash
+1461,2026-02-11,Center,Gyumri,Sona,Food,Snacks,Nachos,53,M,4,2216.59,0.15,7536.41,4181.77,3354.64,True,Cash
+1462,2026-03-23,South,Gyumri,Maria,Food,Snacks,Nachos,45,M,8,701.53,0.2,4489.79,2917.64,1572.15,False,Transfer
+1463,2025-01-18,West,Dilijan,Arman,Electronics,Laptops,MacBook Air,48,M,1,2478.23,0.2,1982.58,1524.63,457.95,False,Cash
+1464,2025-05-03,North,Yerevan,Arman,Furniture,Chairs,Office Chair,60,F,7,2375.09,0.03,16126.86,10086.42,6040.44,False,Transfer
+1465,2025-07-27,South,Vanadzor,Karen,Food,Coffee,Arabica Beans,47,M,8,1162.08,0.03,9017.74,7268.02,1749.72,True,Cash
+1466,2025-11-10,Center,Dilijan,David,Clothing,T-Shirts,Basic Tee,61,M,5,1067.63,0.05,5071.24,3774.62,1296.62,False,Transfer
+1467,2025-08-27,Center,Yerevan,Maria,Electronics,Tablets,Surface Go,41,M,6,2220.5,0.0,13323.0,8447.24,4875.76,True,Transfer
+1468,2026-04-26,Center,Gyumri,Karen,Furniture,Chairs,Gaming Chair,32,F,4,1351.39,0.2,4324.45,2886.45,1438.0,False,Cash
+1469,2025-09-27,North,Goris,Karen,Food,Drinks,Cola,52,F,2,935.17,0.1,1683.31,1128.12,555.19,False,Transfer
+1470,2025-07-20,South,Vanadzor,Anna,Clothing,T-Shirts,Basic Tee,24,M,4,2230.3,0.1,8029.08,4259.89,3769.19,False,Card
+1471,2025-08-02,Center,Gyumri,Arman,Furniture,Tables,Dining Table,40,F,4,1304.12,0.2,4173.18,2119.73,2053.45,False,Transfer
+1472,2025-09-24,East,Goris,Sona,Electronics,Laptops,MacBook Air,39,F,2,59.98,0.03,116.36,92.18,24.18,False,Transfer
+1473,2025-05-14,South,Goris,Maria,Food,Drinks,Orange Juice,36,M,3,2246.21,0.05,6401.7,3585.64,2816.06,False,Cash
+1474,2025-03-31,South,Gyumri,David,Clothing,Shoes,Running Shoes,25,M,3,1780.97,0.05,5075.76,2861.7,2214.06,False,Transfer
+1475,2025-12-07,East,Vanadzor,David,Furniture,Tables,Work Desk,41,F,6,465.32,0.15,2373.13,1773.91,599.22,False,Transfer
+1476,2026-04-21,East,Gyumri,Anna,Clothing,Jackets,Winter Jacket,65,F,7,2328.02,0.03,15807.26,13147.31,2659.95,False,Cash
+1477,2026-04-06,North,Gyumri,Karen,Clothing,T-Shirts,Basic Tee,53,M,8,850.02,0.0,6800.16,5141.43,1658.73,False,Card
+1478,2025-11-25,South,Dilijan,Sona,Food,Coffee,Arabica Beans,32,F,8,896.7,0.05,6814.92,3538.73,3276.19,False,Card
+1479,2025-06-12,Center,Dilijan,Sona,Electronics,Tablets,Galaxy Tab,21,F,2,2439.72,0.1,4391.5,2494.62,1896.88,False,Card
+1480,2026-05-16,West,Dilijan,Anna,Food,Drinks,Orange Juice,31,F,6,35.42,0.05,201.89,125.77,76.12,False,Cash
+1481,2025-03-15,South,Vanadzor,Arman,Clothing,Jackets,Leather Jacket,51,F,7,353.22,0.15,2101.66,1490.66,611.0,True,Transfer
+1482,2025-10-12,West,Dilijan,David,Food,Snacks,Protein Bar,30,M,7,1598.82,0.05,10632.15,6858.59,3773.56,False,Cash
+1483,2025-01-14,North,Gyumri,Maria,Food,Snacks,Nachos,37,F,5,1237.78,0.2,4951.12,3278.67,1672.45,True,Transfer
+1484,2025-03-03,East,Goris,Anna,Clothing,Shoes,Running Shoes,56,F,8,2267.45,0.2,14511.68,8498.95,6012.73,False,Transfer
+1485,2026-03-09,East,Gyumri,Sona,Food,Drinks,Orange Juice,21,M,2,936.14,0.2,1497.82,1050.48,447.34,False,Cash
+1486,2026-05-05,East,Yerevan,Maria,Furniture,Tables,Dining Table,36,M,1,685.31,0.1,616.78,445.74,171.04,False,Transfer
+1487,2025-05-19,East,Yerevan,Sona,Furniture,Chairs,Office Chair,55,F,6,2181.75,0.2,10472.4,8168.02,2304.38,False,Card
+1488,2026-04-12,South,Yerevan,David,Furniture,Sofas,Mini Sofa,27,M,6,1948.13,0.1,10519.9,6512.97,4006.93,False,Transfer
+1489,2025-09-03,East,Vanadzor,Karen,Electronics,Laptops,Dell XPS,41,M,2,295.83,0.03,573.91,472.44,101.47,False,Transfer
+1490,2026-03-15,South,Gyumri,Maria,Clothing,Jackets,Leather Jacket,26,M,1,1862.43,0.0,1862.43,1076.16,786.27,False,Card
+1491,2025-01-22,South,Yerevan,Anna,Food,Coffee,Arabica Beans,60,M,2,51.92,0.1,93.46,71.5,21.96,False,Card
+1492,2026-04-17,Center,Gyumri,Sona,Clothing,Jackets,Winter Jacket,30,M,5,1670.63,0.0,8353.15,6463.92,1889.23,False,Card
+1493,2026-03-14,Center,Dilijan,David,Electronics,Phones,Pixel 10,50,M,5,2372.24,0.05,11268.14,7023.11,4245.03,True,Transfer
+1494,2025-10-03,North,Yerevan,David,Electronics,Tablets,iPad Air,50,F,4,2410.84,0.03,9354.06,7628.99,1725.07,False,Transfer
+1495,2025-09-21,South,Goris,Anna,Furniture,Tables,Dining Table,38,M,3,2087.68,0.1,5636.74,3655.04,1981.7,False,Card
+1496,2025-09-10,North,Goris,Maria,Furniture,Tables,Work Desk,47,F,5,1395.04,0.0,6975.2,3688.39,3286.81,False,Card
+1497,2025-07-08,South,Yerevan,Karen,Food,Drinks,Orange Juice,49,M,4,2142.65,0.1,7713.54,6392.05,1321.49,False,Cash
+1498,2026-01-15,South,Yerevan,Maria,Electronics,Phones,iPhone 15,30,F,7,1004.56,0.15,5977.13,5033.64,943.49,False,Transfer
+1499,2026-01-28,Center,Dilijan,Maria,Food,Snacks,Protein Bar,59,F,7,1814.38,0.05,12065.63,9262.61,2803.02,False,Cash
+1500,2025-09-08,West,Gyumri,Karen,Food,Drinks,Orange Juice,26,M,3,1921.16,0.0,5763.48,3128.22,2635.26,True,Transfer
+1501,2025-06-17,South,Vanadzor,Sona,Electronics,Phones,Galaxy S25,57,M,1,2430.32,0.1,2187.29,1556.49,630.8,True,Transfer
+1502,2025-10-05,East,Dilijan,Sona,Food,Drinks,Cola,19,M,5,1656.92,0.1,7456.14,5045.41,2410.73,False,Card
+1503,2025-10-13,East,Gyumri,Arman,Food,Drinks,Orange Juice,45,M,7,1109.18,0.0,7764.26,3971.43,3792.83,False,Transfer
+1504,2025-08-29,West,Dilijan,David,Food,Drinks,Cola,50,M,8,1651.9,0.2,10572.16,7281.97,3290.19,False,Cash
+1505,2025-01-15,Center,Yerevan,David,Food,Coffee,Espresso Pack,41,F,6,1917.34,0.05,10928.84,6690.3,4238.54,True,Transfer
+1506,2025-01-29,South,Gyumri,David,Clothing,Shoes,Running Shoes,59,F,7,866.13,0.05,5759.76,3710.3,2049.46,True,Transfer
+1507,2025-08-24,West,Dilijan,Sona,Electronics,Laptops,MacBook Air,44,F,6,428.6,0.15,2185.86,1342.43,843.43,True,Transfer
+1508,2025-02-20,West,Yerevan,Karen,Food,Coffee,Arabica Beans,61,M,6,947.46,0.1,5116.28,3135.5,1980.78,False,Cash
+1509,2026-03-10,North,Dilijan,David,Clothing,Jackets,Leather Jacket,36,F,6,2423.72,0.03,14106.05,9506.53,4599.52,True,Cash
+1510,2026-02-15,Center,Goris,Arman,Food,Snacks,Protein Bar,31,F,2,1481.7,0.05,2815.23,1473.9,1341.33,True,Transfer
+1511,2025-07-25,East,Dilijan,Sona,Clothing,T-Shirts,Sport Tee,47,M,7,1660.32,0.05,11041.13,6293.74,4747.39,True,Transfer
+1512,2025-05-18,Center,Dilijan,Arman,Furniture,Sofas,Mini Sofa,54,M,4,1653.71,0.2,5291.87,4383.45,908.42,False,Cash
+1513,2025-07-30,East,Yerevan,Karen,Food,Snacks,Protein Bar,31,F,3,1867.35,0.05,5321.95,4233.31,1088.64,False,Cash
+1514,2025-05-06,East,Goris,Arman,Furniture,Tables,Dining Table,53,F,7,600.02,0.03,4074.14,2310.73,1763.41,False,Transfer
+1515,2025-05-23,Center,Gyumri,Karen,Electronics,Phones,iPhone 15,20,F,5,345.39,0.05,1640.6,1273.74,366.86,True,Card
+1516,2025-12-10,North,Goris,Karen,Electronics,Laptops,Lenovo ThinkPad,26,M,5,2168.59,0.1,9758.66,7942.29,1816.37,True,Transfer
+1517,2025-03-04,East,Vanadzor,Sona,Electronics,Tablets,Surface Go,65,F,5,1243.65,0.0,6218.25,3627.27,2590.98,False,Cash
+1518,2025-05-11,Center,Yerevan,Arman,Furniture,Chairs,Office Chair,52,F,3,539.2,0.05,1536.72,1004.73,531.99,True,Cash
+1519,2026-01-02,East,Vanadzor,Anna,Food,Drinks,Cola,59,M,5,2199.19,0.03,10666.07,6688.15,3977.92,True,Transfer
+1520,2026-02-20,North,Dilijan,David,Furniture,Tables,Work Desk,46,F,5,1599.18,0.2,6396.72,4010.74,2385.98,True,Cash
+1521,2025-11-20,East,Goris,Anna,Clothing,Shoes,Running Shoes,35,M,4,747.07,0.03,2898.63,2378.5,520.13,False,Cash
+1522,2025-02-03,East,Goris,Sona,Food,Drinks,Orange Juice,64,F,2,2061.88,0.2,3299.01,1950.84,1348.17,False,Transfer
+1523,2025-07-25,South,Vanadzor,Maria,Electronics,Phones,Pixel 10,54,M,3,1577.24,0.2,3785.38,2073.0,1712.38,True,Card
+1524,2026-03-24,South,Vanadzor,David,Furniture,Sofas,Corner Sofa,61,F,7,1982.64,0.05,13184.56,8675.72,4508.84,False,Card
+1525,2026-03-29,Center,Gyumri,Anna,Electronics,Laptops,Dell XPS,19,M,3,986.77,0.1,2664.28,2213.12,451.16,True,Cash
+1526,2025-03-18,North,Vanadzor,David,Furniture,Tables,Dining Table,54,M,1,1005.58,0.1,905.02,642.69,262.33,True,Transfer
+1527,2026-03-18,East,Vanadzor,Karen,Food,Drinks,Orange Juice,49,F,2,565.09,0.03,1096.27,621.25,475.02,False,Cash
+1528,2025-07-29,South,Yerevan,Maria,Furniture,Sofas,Corner Sofa,34,M,5,1818.14,0.03,8817.98,5700.08,3117.9,False,Card
+1529,2026-05-14,West,Gyumri,Karen,Clothing,T-Shirts,Sport Tee,42,F,2,30.75,0.03,59.66,48.03,11.63,False,Card
+1530,2025-07-01,Center,Dilijan,Karen,Electronics,Tablets,iPad Air,65,M,1,835.49,0.03,810.43,538.8,271.63,True,Cash
+1531,2025-04-02,East,Gyumri,Sona,Food,Drinks,Orange Juice,49,F,6,334.93,0.15,1708.14,878.66,829.48,False,Card
+1532,2025-03-07,West,Vanadzor,Karen,Electronics,Laptops,Lenovo ThinkPad,41,F,7,358.78,0.0,2511.46,1531.1,980.36,False,Cash
+1533,2025-09-09,South,Dilijan,Karen,Clothing,T-Shirts,Sport Tee,58,F,7,2232.22,0.05,14844.26,11250.53,3593.73,True,Card
+1534,2025-08-28,West,Yerevan,Arman,Furniture,Chairs,Office Chair,20,F,3,94.48,0.05,269.27,150.05,119.22,False,Transfer
+1535,2025-02-17,South,Vanadzor,David,Food,Drinks,Orange Juice,28,F,2,2115.37,0.03,4103.82,2229.52,1874.3,False,Transfer
+1536,2025-09-13,North,Vanadzor,Anna,Electronics,Tablets,Surface Go,36,M,3,1043.97,0.0,3131.91,1835.79,1296.12,False,Cash
+1537,2025-08-21,East,Dilijan,Karen,Electronics,Laptops,MacBook Air,18,F,1,207.25,0.2,165.8,121.17,44.63,True,Transfer
+1538,2026-02-13,North,Yerevan,Sona,Food,Drinks,Cola,56,F,4,2158.88,0.2,6908.42,4138.38,2770.04,True,Cash
+1539,2026-02-04,West,Vanadzor,Karen,Clothing,Jackets,Winter Jacket,59,M,7,227.52,0.03,1544.86,860.53,684.33,True,Cash
+1540,2025-09-20,South,Goris,Arman,Food,Drinks,Orange Juice,42,F,3,900.82,0.0,2702.46,2138.24,564.22,False,Transfer
+1541,2025-02-17,North,Dilijan,Maria,Food,Snacks,Nachos,47,M,6,1536.6,0.1,8297.64,5980.44,2317.2,False,Cash
+1542,2025-03-07,East,Gyumri,Sona,Electronics,Laptops,Dell XPS,45,F,7,202.56,0.1,1276.13,772.23,503.9,True,Transfer
+1543,2025-12-05,Center,Vanadzor,Maria,Electronics,Phones,Pixel 10,34,M,2,1279.08,0.1,2302.34,1227.31,1075.03,True,Card
+1544,2025-06-02,East,Dilijan,Karen,Food,Snacks,Protein Bar,47,F,7,117.92,0.1,742.9,599.42,143.48,False,Cash
+1545,2025-12-11,North,Goris,Sona,Furniture,Chairs,Office Chair,19,M,2,1868.84,0.15,3177.03,1876.87,1300.16,False,Card
+1546,2026-05-10,Center,Goris,Maria,Electronics,Phones,Pixel 10,57,F,8,1153.11,0.1,8302.39,6675.73,1626.66,False,Cash
+1547,2025-04-07,North,Gyumri,Arman,Electronics,Phones,iPhone 15,59,M,1,481.05,0.0,481.05,357.71,123.34,False,Cash
+1548,2025-03-27,South,Goris,Arman,Furniture,Chairs,Gaming Chair,48,M,8,374.67,0.1,2697.62,1369.41,1328.21,False,Transfer
+1549,2026-03-10,West,Goris,Arman,Furniture,Chairs,Gaming Chair,65,F,7,132.05,0.0,924.35,495.39,428.96,True,Cash
+1550,2025-10-23,East,Dilijan,Anna,Food,Drinks,Orange Juice,35,F,4,1787.15,0.15,6076.31,3078.6,2997.71,False,Card
+1551,2026-01-07,South,Goris,Maria,Food,Coffee,Espresso Pack,46,M,8,1745.3,0.0,13962.4,7769.61,6192.79,False,Transfer
+1552,2026-05-07,West,Vanadzor,Arman,Clothing,T-Shirts,Sport Tee,28,M,3,2208.52,0.2,5300.45,3969.96,1330.49,False,Transfer
+1553,2025-02-21,West,Goris,Maria,Electronics,Tablets,Galaxy Tab,33,M,3,437.36,0.03,1272.72,906.19,366.53,True,Card
+1554,2025-02-02,East,Goris,Anna,Clothing,Shoes,Boots,57,M,3,440.91,0.15,1124.32,574.74,549.58,True,Transfer
+1555,2025-10-13,East,Gyumri,Karen,Furniture,Tables,Work Desk,50,M,6,1963.29,0.0,11779.74,9064.9,2714.84,True,Cash
+1556,2025-03-27,North,Gyumri,Maria,Food,Snacks,Protein Bar,28,F,2,2059.91,0.0,4119.82,2791.41,1328.41,False,Transfer
+1557,2025-03-04,South,Goris,Arman,Food,Coffee,Arabica Beans,18,M,3,1619.5,0.05,4615.57,3631.1,984.47,False,Cash
+1558,2025-07-04,South,Gyumri,Sona,Clothing,T-Shirts,Basic Tee,44,M,2,668.71,0.2,1069.94,817.64,252.3,False,Cash
+1559,2025-01-06,Center,Yerevan,Anna,Food,Drinks,Orange Juice,39,F,6,2359.63,0.1,12742.0,7020.26,5721.74,False,Card
+1560,2025-10-22,North,Dilijan,Maria,Food,Snacks,Nachos,44,F,1,1652.14,0.2,1321.71,730.69,591.02,False,Transfer
+1561,2025-12-25,West,Goris,Karen,Clothing,Shoes,Running Shoes,31,F,5,2251.02,0.15,9566.84,7865.45,1701.39,False,Transfer
+1562,2026-01-04,South,Dilijan,Sona,Food,Snacks,Nachos,36,M,2,97.24,0.05,184.76,117.6,67.16,True,Transfer
+1563,2025-05-04,East,Goris,Sona,Clothing,T-Shirts,Sport Tee,25,M,3,63.44,0.15,161.77,114.43,47.34,False,Cash
+1564,2025-08-21,East,Gyumri,Karen,Clothing,Jackets,Winter Jacket,55,M,2,1124.6,0.15,1911.82,1448.97,462.85,False,Cash
+1565,2025-09-22,Center,Gyumri,Maria,Clothing,T-Shirts,Basic Tee,47,M,7,1301.57,0.03,8837.66,4744.32,4093.34,False,Transfer
+1566,2025-08-17,North,Vanadzor,Karen,Food,Drinks,Cola,51,F,2,160.17,0.03,310.73,207.16,103.57,False,Cash
+1567,2025-08-02,South,Gyumri,Sona,Food,Coffee,Espresso Pack,26,F,8,1724.1,0.1,12413.52,9385.87,3027.65,False,Card
+1568,2025-10-14,East,Yerevan,Sona,Electronics,Tablets,iPad Air,44,M,8,1186.02,0.2,7590.53,4211.94,3378.59,True,Cash
+1569,2025-09-06,North,Gyumri,David,Clothing,Jackets,Winter Jacket,55,F,2,931.81,0.05,1770.44,1073.14,697.3,True,Cash
+1570,2026-03-22,North,Goris,Arman,Clothing,Jackets,Winter Jacket,54,F,8,10.2,0.15,69.36,43.14,26.22,False,Cash
+1571,2025-12-08,West,Gyumri,Karen,Food,Drinks,Cola,38,M,3,1264.39,0.1,3413.85,2617.01,796.84,False,Cash
+1572,2025-11-27,North,Gyumri,Karen,Furniture,Tables,Work Desk,19,F,1,2395.41,0.1,2155.87,1633.22,522.65,True,Transfer
+1573,2025-09-01,Center,Yerevan,Anna,Electronics,Phones,Pixel 10,60,M,1,2393.45,0.15,2034.43,1152.07,882.36,True,Cash
+1574,2025-10-29,North,Goris,Anna,Furniture,Chairs,Gaming Chair,39,F,2,2018.27,0.15,3431.06,2100.33,1330.73,False,Cash
+1575,2025-10-05,South,Vanadzor,David,Electronics,Tablets,Galaxy Tab,29,F,7,646.66,0.0,4526.62,3815.6,711.02,True,Card
+1576,2026-01-01,North,Vanadzor,Arman,Clothing,Shoes,Running Shoes,24,F,1,1538.12,0.05,1461.21,823.41,637.8,False,Cash
+1577,2025-10-28,South,Goris,Sona,Clothing,Shoes,Boots,50,F,2,134.44,0.03,260.81,199.06,61.75,True,Cash
+1578,2025-04-30,North,Vanadzor,Sona,Electronics,Laptops,Dell XPS,55,M,7,168.32,0.0,1178.24,757.16,421.08,False,Transfer
+1579,2026-02-05,South,Vanadzor,Sona,Furniture,Tables,Work Desk,28,M,8,214.35,0.2,1371.84,926.2,445.64,False,Transfer
+1580,2026-05-13,South,Yerevan,Anna,Food,Snacks,Protein Bar,48,F,8,2402.98,0.15,16340.26,9824.37,6515.89,False,Transfer
+1581,2025-02-05,East,Yerevan,Arman,Food,Drinks,Cola,62,M,5,118.48,0.2,473.92,325.55,148.37,False,Transfer
+1582,2026-01-21,West,Vanadzor,David,Clothing,Shoes,Running Shoes,60,F,6,2210.41,0.05,12599.34,9100.62,3498.72,False,Card
+1583,2025-01-02,Center,Goris,Anna,Food,Coffee,Espresso Pack,18,M,1,2285.48,0.03,2216.92,1610.05,606.87,False,Transfer
+1584,2025-03-05,East,Goris,Sona,Food,Drinks,Cola,40,F,2,1348.93,0.2,2158.29,1415.43,742.86,False,Transfer
+1585,2026-01-16,North,Vanadzor,Karen,Electronics,Phones,Galaxy S25,63,F,6,2340.94,0.1,12641.08,6361.97,6279.11,False,Card
+1586,2025-09-10,Center,Gyumri,Anna,Clothing,T-Shirts,Basic Tee,30,F,4,2450.4,0.05,9311.52,4775.68,4535.84,True,Cash
+1587,2025-03-07,East,Dilijan,David,Food,Snacks,Protein Bar,51,F,3,168.07,0.03,489.08,372.23,116.85,False,Transfer
+1588,2025-08-07,North,Vanadzor,Arman,Electronics,Tablets,Surface Go,44,F,5,1703.3,0.1,7664.85,3837.67,3827.18,True,Transfer
+1589,2026-04-16,West,Dilijan,Arman,Food,Drinks,Orange Juice,38,M,1,2210.09,0.03,2143.79,1107.13,1036.66,False,Card
+1590,2026-04-15,South,Gyumri,David,Clothing,Jackets,Winter Jacket,39,F,4,2445.35,0.1,8803.26,7352.67,1450.59,True,Transfer
+1591,2026-04-24,East,Vanadzor,David,Electronics,Phones,Galaxy S25,24,F,7,2021.11,0.15,12025.6,9368.27,2657.33,False,Cash
+1592,2026-01-27,North,Goris,Sona,Electronics,Laptops,Lenovo ThinkPad,25,M,4,2359.15,0.15,8021.11,5749.92,2271.19,True,Card
+1593,2025-11-09,West,Yerevan,Anna,Food,Drinks,Cola,61,M,3,159.7,0.1,431.19,223.86,207.33,True,Cash
+1594,2025-11-16,North,Goris,Arman,Food,Drinks,Cola,47,F,7,586.61,0.15,3490.33,2707.16,783.17,True,Cash
+1595,2025-11-01,North,Dilijan,David,Electronics,Laptops,Lenovo ThinkPad,54,M,6,1471.59,0.0,8829.54,4732.12,4097.42,False,Cash
+1596,2025-06-09,Center,Goris,Sona,Food,Drinks,Orange Juice,59,F,3,611.67,0.0,1835.01,956.36,878.65,False,Transfer
+1597,2025-01-05,Center,Dilijan,Karen,Furniture,Chairs,Gaming Chair,61,M,5,1510.31,0.05,7173.97,4513.08,2660.89,True,Card
+1598,2026-02-07,North,Vanadzor,David,Electronics,Laptops,Dell XPS,60,F,4,2441.39,0.2,7812.45,6390.39,1422.06,False,Transfer
+1599,2026-03-25,North,Goris,David,Clothing,T-Shirts,Sport Tee,18,M,5,1049.64,0.03,5090.75,2732.19,2358.56,False,Cash
+1600,2025-04-05,North,Vanadzor,Anna,Furniture,Chairs,Gaming Chair,22,F,6,2019.14,0.1,10903.36,6235.2,4668.16,True,Transfer
+1601,2025-07-04,North,Yerevan,David,Electronics,Phones,Galaxy S25,30,F,8,490.04,0.15,3332.27,2730.62,601.65,False,Card
+1602,2025-01-12,South,Vanadzor,Anna,Clothing,T-Shirts,Basic Tee,19,M,6,2119.6,0.03,12336.07,6938.91,5397.16,False,Transfer
+1603,2025-12-05,South,Dilijan,Sona,Electronics,Laptops,MacBook Air,45,M,5,1143.23,0.05,5430.34,4253.7,1176.64,True,Card
+1604,2026-05-16,South,Yerevan,Sona,Furniture,Chairs,Office Chair,55,M,7,1737.41,0.05,11553.78,8201.36,3352.42,False,Card
+1605,2026-03-30,West,Gyumri,Karen,Clothing,Jackets,Winter Jacket,23,F,5,2182.76,0.15,9276.73,7782.57,1494.16,True,Card
+1606,2025-07-11,Center,Goris,Karen,Food,Coffee,Espresso Pack,49,F,8,1299.64,0.03,10085.21,6178.58,3906.63,False,Transfer
+1607,2025-05-01,West,Gyumri,Maria,Food,Coffee,Arabica Beans,45,F,4,552.72,0.03,2144.55,1411.6,732.95,False,Cash
+1608,2025-06-30,South,Dilijan,Anna,Clothing,T-Shirts,Basic Tee,47,F,3,1880.3,0.05,5358.85,3513.14,1845.71,False,Cash
+1609,2025-01-13,South,Goris,David,Food,Drinks,Orange Juice,34,M,6,2012.24,0.05,11469.77,6830.9,4638.87,False,Card
+1610,2025-07-04,North,Dilijan,David,Clothing,T-Shirts,Basic Tee,39,M,5,2316.88,0.0,11584.4,6273.02,5311.38,False,Cash
+1611,2026-01-21,Center,Vanadzor,Anna,Clothing,T-Shirts,Sport Tee,37,F,4,1765.58,0.03,6850.45,5819.06,1031.39,False,Cash
+1612,2025-04-27,South,Gyumri,Arman,Food,Coffee,Arabica Beans,32,F,8,1636.96,0.03,12702.81,10199.25,2503.56,False,Cash
+1613,2025-08-13,West,Dilijan,Anna,Electronics,Laptops,MacBook Air,41,M,7,1926.48,0.2,10788.29,6971.29,3817.0,False,Cash
+1614,2026-01-21,West,Dilijan,Maria,Electronics,Laptops,Lenovo ThinkPad,38,M,6,852.86,0.1,4605.44,2988.94,1616.5,True,Card
+1615,2025-07-17,South,Goris,Anna,Furniture,Tables,Work Desk,39,F,7,514.49,0.1,3241.29,1692.92,1548.37,False,Card
+1616,2025-04-06,South,Yerevan,Arman,Furniture,Chairs,Office Chair,36,M,1,2067.05,0.15,1756.99,1178.97,578.02,False,Cash
+1617,2026-04-11,West,Goris,David,Electronics,Laptops,MacBook Air,25,M,6,1298.74,0.03,7558.67,4643.82,2914.85,False,Cash
+1618,2025-12-30,West,Gyumri,Sona,Electronics,Laptops,MacBook Air,54,F,3,2176.77,0.05,6203.79,4040.34,2163.45,False,Transfer
+1619,2025-07-24,Center,Gyumri,Sona,Food,Drinks,Cola,39,F,1,2477.76,0.1,2229.98,1164.92,1065.06,False,Cash
+1620,2026-03-08,East,Goris,Sona,Electronics,Tablets,iPad Air,29,F,5,1617.52,0.1,7278.84,4522.88,2755.96,False,Card
+1621,2026-04-30,North,Gyumri,David,Food,Drinks,Orange Juice,35,F,3,1747.81,0.0,5243.43,3343.96,1899.47,True,Transfer
+1622,2025-09-16,East,Goris,Arman,Furniture,Tables,Work Desk,28,F,2,2488.31,0.0,4976.62,3804.07,1172.55,False,Transfer
+1623,2025-07-15,East,Goris,David,Electronics,Laptops,MacBook Air,43,M,2,1598.97,0.2,2558.35,1950.51,607.84,True,Cash
+1624,2025-02-04,North,Dilijan,Karen,Electronics,Tablets,iPad Air,33,F,6,1677.39,0.1,9057.91,6065.77,2992.14,False,Cash
+1625,2025-10-01,West,Gyumri,Anna,Clothing,Jackets,Winter Jacket,60,M,1,1519.44,0.03,1473.86,888.66,585.2,False,Card
+1626,2025-08-15,North,Dilijan,Karen,Food,Drinks,Cola,60,M,4,1787.46,0.2,5719.87,3925.57,1794.3,False,Transfer
+1627,2026-04-21,South,Vanadzor,David,Clothing,Shoes,Running Shoes,30,M,1,126.42,0.1,113.78,87.44,26.34,True,Cash
+1628,2026-03-28,North,Gyumri,Karen,Electronics,Phones,Galaxy S25,28,M,4,1701.5,0.0,6806.0,3928.41,2877.59,False,Transfer
+1629,2025-08-08,North,Gyumri,David,Electronics,Laptops,Dell XPS,24,F,4,1563.56,0.15,5316.1,3393.12,1922.98,False,Card
+1630,2025-02-03,East,Dilijan,Maria,Electronics,Laptops,Lenovo ThinkPad,20,M,6,34.89,0.03,203.06,134.14,68.92,False,Cash
+1631,2026-05-07,North,Dilijan,Maria,Clothing,T-Shirts,Sport Tee,58,F,2,1782.77,0.15,3030.71,1697.23,1333.48,False,Cash
+1632,2025-10-27,West,Goris,Sona,Furniture,Sofas,Mini Sofa,58,M,8,173.45,0.0,1387.6,989.34,398.26,True,Card
+1633,2025-11-14,North,Yerevan,David,Electronics,Tablets,iPad Air,41,F,5,594.81,0.1,2676.64,2047.73,628.91,False,Card
+1634,2026-04-30,West,Vanadzor,David,Furniture,Tables,Dining Table,35,F,1,598.97,0.2,479.18,339.89,139.29,True,Transfer
+1635,2025-05-05,South,Dilijan,Anna,Food,Coffee,Espresso Pack,60,M,1,576.38,0.2,461.1,284.01,177.09,False,Transfer
+1636,2025-09-09,North,Gyumri,Anna,Food,Coffee,Espresso Pack,58,M,3,1108.69,0.0,3326.07,1738.26,1587.81,False,Card
+1637,2025-08-28,East,Gyumri,Karen,Electronics,Phones,Pixel 10,30,M,4,594.59,0.0,2378.36,1543.99,834.37,False,Card
+1638,2026-02-05,West,Yerevan,Maria,Furniture,Tables,Work Desk,43,F,8,2419.48,0.03,18775.16,11174.06,7601.1,False,Cash
+1639,2025-07-15,West,Yerevan,Maria,Food,Drinks,Orange Juice,56,M,3,2049.91,0.1,5534.76,2805.76,2729.0,False,Cash
+1640,2025-02-06,East,Gyumri,Karen,Food,Drinks,Orange Juice,48,M,8,711.65,0.15,4839.22,3446.05,1393.17,False,Card
+1641,2026-05-12,East,Goris,Arman,Electronics,Phones,Pixel 10,37,M,6,1231.18,0.1,6648.37,5512.16,1136.21,False,Card
+1642,2026-01-30,East,Dilijan,Karen,Electronics,Laptops,Lenovo ThinkPad,49,F,3,489.6,0.1,1321.92,1103.78,218.14,True,Transfer
+1643,2025-12-13,North,Gyumri,Maria,Food,Drinks,Cola,56,F,4,1196.93,0.05,4548.33,3278.59,1269.74,False,Cash
+1644,2026-04-15,West,Goris,Karen,Furniture,Sofas,Corner Sofa,55,M,1,296.24,0.0,296.24,214.93,81.31,False,Cash
+1645,2025-07-15,Center,Vanadzor,Karen,Furniture,Tables,Work Desk,44,M,5,1254.11,0.15,5329.97,3893.38,1436.59,True,Transfer
+1646,2025-01-04,South,Goris,Anna,Clothing,Jackets,Leather Jacket,24,M,4,2325.39,0.1,8371.4,6233.79,2137.61,False,Transfer
+1647,2025-03-10,South,Goris,David,Food,Coffee,Espresso Pack,50,M,7,430.73,0.05,2864.35,1619.05,1245.3,False,Transfer
+1648,2026-04-07,West,Goris,Karen,Furniture,Chairs,Office Chair,57,M,1,1876.04,0.03,1819.76,1075.07,744.69,False,Card
+1649,2025-05-01,West,Goris,Karen,Clothing,Jackets,Leather Jacket,24,M,2,695.52,0.05,1321.49,674.47,647.02,True,Cash
+1650,2025-07-12,Center,Dilijan,Maria,Electronics,Tablets,Surface Go,49,F,1,246.62,0.15,209.63,162.91,46.72,False,Transfer
+1651,2025-12-07,West,Goris,Sona,Food,Drinks,Orange Juice,21,F,6,2498.62,0.03,14541.97,12060.34,2481.63,False,Card
+1652,2025-03-04,Center,Vanadzor,Karen,Electronics,Laptops,Lenovo ThinkPad,33,F,7,1814.42,0.03,12319.91,6270.69,6049.22,False,Transfer
+1653,2026-02-21,East,Yerevan,Karen,Food,Coffee,Espresso Pack,41,M,4,12.81,0.2,40.99,34.23,6.76,False,Transfer
+1654,2026-04-26,West,Yerevan,Karen,Food,Snacks,Nachos,42,F,7,1849.32,0.0,12945.24,8050.86,4894.38,False,Transfer
+1655,2025-12-11,Center,Goris,David,Furniture,Sofas,Corner Sofa,46,M,3,1247.32,0.0,3741.96,2265.65,1476.31,False,Transfer
+1656,2025-02-24,West,Yerevan,David,Furniture,Chairs,Office Chair,38,F,3,1884.37,0.2,4522.49,3369.11,1153.38,False,Card
+1657,2025-09-09,North,Vanadzor,David,Clothing,T-Shirts,Sport Tee,54,M,2,1665.36,0.15,2831.11,2043.33,787.78,False,Cash
+1658,2025-02-27,North,Vanadzor,Karen,Food,Coffee,Espresso Pack,55,M,4,562.76,0.0,2251.04,1354.77,896.27,True,Transfer
+1659,2025-10-30,Center,Gyumri,Arman,Clothing,Jackets,Leather Jacket,45,F,7,1444.41,0.0,10110.87,6155.29,3955.58,False,Transfer
+1660,2025-06-11,South,Vanadzor,David,Furniture,Sofas,Corner Sofa,49,F,2,991.3,0.15,1685.21,1345.35,339.86,False,Transfer
+1661,2026-03-11,Center,Goris,Karen,Clothing,Jackets,Winter Jacket,31,F,6,775.68,0.2,3723.26,2022.52,1700.74,False,Transfer
+1662,2026-04-24,South,Yerevan,David,Food,Snacks,Nachos,49,F,3,2070.57,0.03,6025.36,4801.15,1224.21,False,Transfer
+1663,2026-01-23,West,Goris,Anna,Furniture,Chairs,Gaming Chair,51,F,6,1058.98,0.1,5718.49,4841.33,877.16,False,Transfer
+1664,2025-01-28,East,Goris,Karen,Furniture,Sofas,Mini Sofa,28,M,2,331.6,0.15,563.72,452.7,111.02,False,Transfer
+1665,2025-11-30,North,Vanadzor,Karen,Food,Drinks,Cola,54,M,4,549.25,0.2,1757.6,999.16,758.44,False,Cash
+1666,2025-01-27,North,Dilijan,Karen,Food,Coffee,Arabica Beans,39,F,1,244.64,0.1,220.18,123.93,96.25,False,Transfer
+1667,2025-11-02,South,Goris,Karen,Food,Snacks,Protein Bar,60,M,2,605.93,0.1,1090.67,660.88,429.79,False,Transfer
+1668,2025-09-08,Center,Gyumri,Anna,Food,Drinks,Orange Juice,55,F,6,33.95,0.0,203.7,107.74,95.96,False,Transfer
+1669,2025-06-02,Center,Gyumri,Anna,Electronics,Tablets,iPad Air,38,M,7,1213.06,0.2,6793.14,5067.4,1725.74,False,Cash
+1670,2026-02-24,North,Gyumri,Karen,Electronics,Laptops,Lenovo ThinkPad,25,M,8,164.51,0.15,1118.67,770.36,348.31,False,Card
+1671,2025-02-14,Center,Vanadzor,Anna,Food,Drinks,Cola,23,M,1,326.4,0.03,316.61,230.63,85.98,False,Cash
+1672,2025-05-31,Center,Goris,David,Furniture,Tables,Dining Table,54,F,4,755.0,0.15,2567.0,2096.26,470.74,False,Transfer
+1673,2025-04-07,South,Vanadzor,David,Clothing,T-Shirts,Basic Tee,26,M,2,1658.23,0.0,3316.46,1933.45,1383.01,False,Cash
+1674,2026-04-08,South,Goris,Arman,Furniture,Sofas,Mini Sofa,23,F,2,1376.87,0.05,2616.05,1657.59,958.46,False,Transfer
+1675,2025-12-23,South,Vanadzor,Sona,Furniture,Sofas,Corner Sofa,60,M,2,1575.77,0.05,2993.96,2540.0,453.96,False,Card
+1676,2025-03-05,Center,Yerevan,Karen,Clothing,Shoes,Boots,53,F,1,2410.22,0.03,2337.91,1232.39,1105.52,True,Cash
+1677,2025-02-20,West,Gyumri,Arman,Electronics,Laptops,Dell XPS,24,M,5,370.09,0.03,1794.94,1069.38,725.56,False,Transfer
+1678,2025-05-25,Center,Vanadzor,Sona,Clothing,T-Shirts,Sport Tee,24,M,2,1324.76,0.2,2119.62,1484.28,635.34,False,Cash
+1679,2025-12-18,Center,Gyumri,Karen,Food,Snacks,Nachos,26,M,7,1194.77,0.03,8112.49,4791.82,3320.67,False,Transfer
+1680,2025-04-04,West,Vanadzor,Arman,Clothing,Jackets,Leather Jacket,50,F,4,1697.15,0.1,6109.74,4566.27,1543.47,False,Cash
+1681,2025-11-21,North,Yerevan,Karen,Furniture,Tables,Dining Table,33,M,5,1019.25,0.05,4841.44,3852.99,988.45,False,Transfer
+1682,2025-01-06,West,Dilijan,Karen,Electronics,Phones,Pixel 10,26,F,5,1387.63,0.1,6244.34,4888.83,1355.51,False,Transfer
+1683,2025-08-06,Center,Vanadzor,David,Electronics,Laptops,MacBook Air,65,M,4,2277.66,0.2,7288.51,3662.85,3625.66,False,Card
+1684,2025-01-27,West,Goris,Arman,Furniture,Chairs,Office Chair,28,F,6,2099.33,0.15,10706.58,6677.18,4029.4,True,Cash
+1685,2025-01-02,Center,Goris,David,Furniture,Sofas,Corner Sofa,37,M,5,751.45,0.05,3569.39,2115.44,1453.95,False,Transfer
+1686,2025-02-24,North,Vanadzor,Karen,Food,Snacks,Nachos,29,F,1,1540.75,0.05,1463.71,884.7,579.01,False,Card
+1687,2025-07-30,North,Goris,Anna,Electronics,Laptops,Dell XPS,27,F,4,216.44,0.15,735.9,599.37,136.53,False,Cash
+1688,2025-05-18,North,Goris,Karen,Food,Drinks,Orange Juice,46,M,6,1073.71,0.03,6248.99,4297.74,1951.25,False,Cash
+1689,2025-07-22,West,Vanadzor,Anna,Food,Snacks,Nachos,28,M,4,281.11,0.05,1068.22,549.16,519.06,False,Transfer
+1690,2025-06-16,West,Dilijan,Karen,Clothing,Jackets,Leather Jacket,65,F,8,1377.56,0.2,8816.38,6612.39,2203.99,False,Card
+1691,2025-05-02,North,Vanadzor,Arman,Electronics,Phones,iPhone 15,56,M,3,863.58,0.0,2590.74,1991.2,599.54,False,Cash
+1692,2026-01-09,Center,Gyumri,David,Clothing,Shoes,Boots,35,M,2,1903.45,0.03,3692.69,2644.57,1048.12,False,Transfer
+1693,2025-09-15,Center,Gyumri,David,Furniture,Sofas,Mini Sofa,55,M,4,1187.36,0.0,4749.44,3540.24,1209.2,False,Card
+1694,2025-11-12,South,Yerevan,Anna,Furniture,Tables,Dining Table,42,F,5,2476.04,0.03,12008.79,7796.18,4212.61,False,Transfer
+1695,2025-01-27,East,Yerevan,Maria,Furniture,Chairs,Gaming Chair,41,F,7,1200.59,0.15,7143.51,4639.53,2503.98,False,Transfer
+1696,2026-01-17,East,Gyumri,Maria,Food,Snacks,Nachos,48,F,1,458.47,0.0,458.47,237.6,220.87,True,Cash
+1697,2025-01-07,Center,Gyumri,Maria,Furniture,Tables,Work Desk,41,F,6,839.03,0.0,5034.18,2687.8,2346.38,False,Card
+1698,2025-11-05,North,Yerevan,Sona,Clothing,Jackets,Leather Jacket,59,M,2,2218.55,0.03,4303.99,3100.36,1203.63,False,Transfer
+1699,2025-04-14,Center,Gyumri,Anna,Food,Snacks,Protein Bar,26,M,6,757.18,0.1,4088.77,3460.64,628.13,False,Transfer
+1700,2025-08-12,North,Goris,Arman,Clothing,T-Shirts,Sport Tee,51,M,6,1123.96,0.2,5395.01,2919.24,2475.77,False,Transfer
+1701,2026-05-13,South,Goris,Arman,Clothing,T-Shirts,Basic Tee,61,M,5,118.39,0.15,503.16,262.29,240.87,False,Cash
+1702,2025-03-23,Center,Gyumri,Sona,Food,Coffee,Espresso Pack,62,M,7,1520.01,0.03,10320.87,5825.34,4495.53,False,Transfer
+1703,2025-04-25,North,Dilijan,David,Clothing,Shoes,Running Shoes,36,M,5,1772.1,0.15,7531.43,4079.67,3451.76,False,Cash
+1704,2025-01-01,East,Dilijan,Maria,Furniture,Tables,Dining Table,38,M,4,2473.89,0.03,9598.69,6595.34,3003.35,False,Transfer
+1705,2026-02-26,East,Gyumri,Karen,Furniture,Tables,Work Desk,35,M,6,2463.23,0.2,11823.5,9288.22,2535.28,False,Card
+1706,2025-11-21,Center,Dilijan,David,Electronics,Tablets,Surface Go,46,M,7,2364.41,0.05,15723.33,12649.56,3073.77,False,Cash
+1707,2025-07-08,South,Goris,Anna,Furniture,Sofas,Mini Sofa,49,M,3,1117.91,0.2,2682.98,2023.5,659.48,False,Card
+1708,2026-03-30,South,Goris,Karen,Furniture,Chairs,Gaming Chair,56,M,3,1620.67,0.0,4862.01,2958.81,1903.2,True,Card
+1709,2025-09-27,South,Yerevan,Sona,Electronics,Laptops,MacBook Air,24,F,8,2273.28,0.1,16367.62,8758.02,7609.6,False,Card
+1710,2026-04-26,Center,Yerevan,Anna,Electronics,Phones,Pixel 10,24,F,1,334.79,0.0,334.79,198.76,136.03,True,Card
+1711,2025-01-29,Center,Vanadzor,Karen,Furniture,Tables,Work Desk,52,M,3,771.93,0.1,2084.21,1154.82,929.39,True,Card
+1712,2026-04-13,South,Yerevan,David,Electronics,Tablets,Galaxy Tab,45,F,2,1281.3,0.1,2306.34,1267.66,1038.68,False,Cash
+1713,2026-05-05,East,Vanadzor,Anna,Clothing,Jackets,Leather Jacket,57,F,2,1232.09,0.0,2464.18,1425.73,1038.45,True,Cash
+1714,2025-04-03,West,Gyumri,Karen,Electronics,Phones,Pixel 10,61,F,3,449.28,0.15,1145.66,707.1,438.56,False,Cash
+1715,2026-02-08,North,Gyumri,Karen,Electronics,Laptops,Dell XPS,27,F,6,2332.54,0.2,11196.19,8727.87,2468.32,False,Cash
+1716,2025-05-23,South,Yerevan,Maria,Food,Coffee,Espresso Pack,26,M,2,287.34,0.1,517.21,432.31,84.9,False,Cash
+1717,2025-11-22,East,Gyumri,Karen,Clothing,Shoes,Boots,33,F,8,1735.08,0.1,12492.58,8877.35,3615.23,False,Transfer
+1718,2025-09-27,Center,Gyumri,Karen,Food,Coffee,Espresso Pack,23,M,4,964.64,0.15,3279.78,2460.56,819.22,False,Card
+1719,2025-06-28,East,Gyumri,Maria,Furniture,Chairs,Gaming Chair,47,M,8,2394.25,0.0,19154.0,9976.4,9177.6,False,Card
+1720,2025-07-13,North,Goris,Maria,Furniture,Chairs,Office Chair,21,M,3,297.5,0.2,714.0,532.92,181.08,True,Cash
+1721,2025-10-19,West,Gyumri,David,Furniture,Chairs,Office Chair,48,M,6,357.49,0.03,2080.59,1096.41,984.18,False,Cash
+1722,2025-02-26,South,Yerevan,Karen,Food,Coffee,Espresso Pack,20,M,8,1954.59,0.2,12509.38,6312.52,6196.86,False,Card
+1723,2025-04-27,West,Gyumri,Maria,Food,Drinks,Orange Juice,23,F,5,2298.28,0.15,9767.69,5930.08,3837.61,False,Transfer
+1724,2025-11-06,North,Goris,Arman,Furniture,Tables,Dining Table,38,F,4,983.77,0.2,3148.06,2649.39,498.67,False,Card
+1725,2025-07-05,Center,Vanadzor,Anna,Electronics,Laptops,Lenovo ThinkPad,33,F,7,490.85,0.0,3435.95,1843.52,1592.43,False,Transfer
+1726,2025-04-14,North,Gyumri,Maria,Electronics,Phones,iPhone 15,23,M,1,1892.52,0.05,1797.89,1017.08,780.81,False,Card
+1727,2026-05-06,West,Dilijan,David,Electronics,Laptops,MacBook Air,38,F,5,26.15,0.05,124.21,94.78,29.43,False,Card
+1728,2026-02-12,West,Goris,Sona,Electronics,Laptops,Dell XPS,20,F,2,1257.93,0.03,2440.38,1240.42,1199.96,False,Card
+1729,2026-01-29,South,Dilijan,Sona,Food,Snacks,Protein Bar,64,F,4,2211.58,0.2,7077.06,5159.01,1918.05,False,Card
+1730,2025-07-18,South,Gyumri,Sona,Clothing,Shoes,Boots,56,M,7,104.83,0.2,587.05,452.59,134.46,False,Transfer
+1731,2026-05-12,North,Goris,Anna,Food,Snacks,Protein Bar,47,F,3,1916.96,0.05,5463.34,3777.89,1685.45,False,Cash
+1732,2026-01-31,West,Vanadzor,Arman,Furniture,Chairs,Gaming Chair,34,F,6,886.65,0.0,5319.9,2993.59,2326.31,False,Card
+1733,2025-03-08,West,Vanadzor,Sona,Food,Snacks,Nachos,57,F,5,1005.34,0.15,4272.69,3507.87,764.82,False,Card
+1734,2026-05-16,North,Gyumri,Karen,Food,Coffee,Espresso Pack,53,M,5,2194.13,0.2,8776.52,4519.35,4257.17,False,Card
+1735,2025-08-25,North,Vanadzor,Arman,Clothing,Shoes,Running Shoes,47,F,7,2135.3,0.03,14498.69,9219.4,5279.29,True,Card
+1736,2025-02-03,East,Vanadzor,Sona,Furniture,Sofas,Corner Sofa,49,M,7,1921.7,0.03,13048.34,8357.88,4690.46,False,Card
+1737,2025-06-13,Center,Yerevan,Sona,Clothing,Shoes,Running Shoes,42,M,3,2371.59,0.03,6901.33,4997.09,1904.24,False,Cash
+1738,2025-05-10,South,Yerevan,David,Food,Snacks,Protein Bar,22,F,4,2170.71,0.2,6946.27,4501.34,2444.93,False,Card
+1739,2025-04-05,North,Yerevan,Arman,Clothing,T-Shirts,Sport Tee,39,F,7,1314.32,0.2,7360.19,5980.71,1379.48,False,Card
+1740,2025-08-12,East,Dilijan,Arman,Clothing,Shoes,Boots,18,M,8,1341.09,0.03,10406.86,8720.5,1686.36,True,Transfer
+1741,2025-09-13,East,Yerevan,Karen,Furniture,Tables,Work Desk,44,F,1,380.51,0.1,342.46,283.16,59.3,True,Cash
+1742,2025-08-04,Center,Gyumri,Sona,Furniture,Sofas,Mini Sofa,42,M,2,96.03,0.2,153.65,129.47,24.18,False,Card
+1743,2025-06-07,Center,Yerevan,Karen,Furniture,Sofas,Corner Sofa,49,F,6,2035.38,0.0,12212.28,7396.74,4815.54,False,Cash
+1744,2025-07-11,South,Dilijan,Sona,Clothing,Shoes,Boots,28,F,6,287.88,0.03,1675.46,1106.79,568.67,False,Cash
+1745,2025-01-09,Center,Goris,Anna,Food,Coffee,Espresso Pack,49,M,2,2488.43,0.0,4976.86,2644.57,2332.29,False,Transfer
+1746,2025-02-28,South,Goris,Anna,Electronics,Tablets,Galaxy Tab,40,F,7,533.62,0.1,3361.81,2329.92,1031.89,False,Transfer
+1747,2025-05-16,East,Goris,Karen,Food,Snacks,Nachos,33,M,4,1271.36,0.05,4831.17,3902.92,928.25,False,Card
+1748,2025-11-04,East,Vanadzor,David,Electronics,Phones,iPhone 15,54,F,6,2102.72,0.15,10723.87,8439.81,2284.06,False,Transfer
+1749,2026-04-26,West,Gyumri,Arman,Food,Snacks,Nachos,38,M,1,2004.32,0.15,1703.67,1107.7,595.97,False,Card
+1750,2025-11-18,East,Dilijan,David,Electronics,Tablets,iPad Air,38,M,2,1580.45,0.1,2844.81,2261.8,583.01,True,Card
+1751,2026-05-13,North,Dilijan,Arman,Electronics,Laptops,MacBook Air,19,M,3,74.41,0.2,178.58,123.27,55.31,False,Transfer
+1752,2026-01-07,West,Vanadzor,Karen,Clothing,Jackets,Winter Jacket,21,F,4,745.82,0.15,2535.79,2013.82,521.97,True,Card
+1753,2025-03-14,East,Vanadzor,David,Electronics,Tablets,Surface Go,23,M,2,281.77,0.15,479.01,260.07,218.94,False,Cash
+1754,2026-05-07,North,Gyumri,Karen,Furniture,Tables,Dining Table,44,F,8,1989.63,0.1,14325.34,7531.57,6793.77,False,Transfer
+1755,2025-11-20,Center,Yerevan,Anna,Food,Snacks,Protein Bar,39,F,5,30.3,0.03,146.95,107.4,39.55,False,Transfer
+1756,2025-10-02,North,Dilijan,Sona,Electronics,Phones,Pixel 10,27,M,5,2316.83,0.03,11236.63,8002.04,3234.59,False,Card
+1757,2025-03-06,East,Vanadzor,Arman,Furniture,Chairs,Gaming Chair,30,M,3,553.3,0.2,1327.92,985.4,342.52,False,Transfer
+1758,2025-05-09,South,Gyumri,Karen,Clothing,Shoes,Boots,63,F,7,1284.08,0.1,8089.7,6656.38,1433.32,False,Card
+1759,2026-01-18,East,Vanadzor,Sona,Clothing,Jackets,Winter Jacket,24,F,8,1086.51,0.1,7822.87,5071.63,2751.24,False,Card
+1760,2025-05-10,Center,Goris,Maria,Clothing,Shoes,Running Shoes,56,F,8,422.29,0.0,3378.32,2822.03,556.29,False,Card
+1761,2025-04-21,East,Vanadzor,David,Electronics,Phones,Galaxy S25,38,M,7,1978.29,0.05,13155.63,7707.38,5448.25,True,Cash
+1762,2025-10-15,North,Goris,Maria,Electronics,Tablets,Galaxy Tab,56,M,4,1166.11,0.05,4431.22,3609.5,821.72,False,Card
+1763,2025-06-13,South,Gyumri,Anna,Clothing,T-Shirts,Basic Tee,49,F,7,1706.92,0.1,10753.6,6572.86,4180.74,True,Cash
+1764,2025-05-02,Center,Yerevan,Maria,Food,Snacks,Protein Bar,19,M,8,431.99,0.05,3283.12,2320.87,962.25,False,Cash
+1765,2025-02-18,West,Vanadzor,Maria,Furniture,Tables,Dining Table,38,F,1,846.79,0.0,846.79,443.98,402.81,False,Card
+1766,2025-11-25,North,Vanadzor,Sona,Clothing,Shoes,Running Shoes,24,M,7,749.62,0.1,4722.61,3176.75,1545.86,False,Card
+1767,2025-03-29,North,Gyumri,Karen,Electronics,Phones,iPhone 15,41,M,6,2154.16,0.2,10339.97,6746.72,3593.25,True,Cash
+1768,2026-02-10,West,Vanadzor,Karen,Electronics,Phones,iPhone 15,28,M,5,192.23,0.05,913.09,676.39,236.7,False,Card
+1769,2025-09-28,South,Dilijan,Arman,Furniture,Tables,Dining Table,60,F,7,1594.07,0.2,8926.79,4845.74,4081.05,False,Cash
+1770,2025-10-13,South,Gyumri,Karen,Food,Snacks,Protein Bar,22,M,5,1916.67,0.2,7666.68,4055.51,3611.17,False,Card
+1771,2025-06-24,South,Dilijan,Sona,Furniture,Chairs,Office Chair,50,F,8,2047.19,0.03,15886.19,10654.49,5231.7,False,Transfer
+1772,2025-07-17,West,Dilijan,Sona,Food,Coffee,Arabica Beans,30,F,2,2285.74,0.03,4434.34,3639.9,794.44,False,Card
+1773,2025-03-17,West,Yerevan,Karen,Clothing,Shoes,Running Shoes,25,M,5,2378.98,0.15,10110.66,7349.78,2760.88,True,Cash
+1774,2025-03-02,Center,Yerevan,Maria,Furniture,Tables,Dining Table,45,M,8,1656.4,0.1,11926.08,7432.15,4493.93,False,Cash
+1775,2025-11-29,West,Goris,David,Food,Coffee,Espresso Pack,36,M,1,1106.14,0.05,1050.83,561.39,489.44,False,Card
+1776,2026-05-06,North,Gyumri,Anna,Clothing,T-Shirts,Sport Tee,21,M,7,277.42,0.0,1941.94,1410.28,531.66,False,Card
+1777,2025-07-27,West,Goris,Anna,Electronics,Tablets,iPad Air,32,F,5,570.03,0.15,2422.63,1804.45,618.18,False,Card
+1778,2025-02-18,South,Dilijan,Karen,Furniture,Chairs,Gaming Chair,57,F,5,1766.1,0.05,8388.98,6349.27,2039.71,False,Transfer
+1779,2025-03-14,North,Goris,Arman,Furniture,Chairs,Gaming Chair,39,M,2,420.78,0.05,799.48,651.54,147.94,False,Cash
+1780,2025-09-08,South,Goris,Anna,Electronics,Phones,Pixel 10,20,M,1,1487.04,0.1,1338.34,942.33,396.01,False,Card
+1781,2025-09-09,East,Dilijan,Maria,Furniture,Chairs,Office Chair,60,F,2,764.98,0.2,1223.97,755.79,468.18,False,Cash
+1782,2026-03-15,Center,Goris,Anna,Food,Snacks,Nachos,35,M,5,1776.84,0.15,7551.57,5822.9,1728.67,False,Cash
+1783,2025-12-23,West,Vanadzor,David,Furniture,Sofas,Corner Sofa,65,M,6,1247.09,0.03,7258.06,5096.28,2161.78,False,Cash
+1784,2026-04-12,East,Vanadzor,Arman,Electronics,Laptops,Lenovo ThinkPad,55,F,8,2468.39,0.15,16785.05,9420.33,7364.72,False,Cash
+1785,2026-02-10,East,Vanadzor,Anna,Furniture,Chairs,Gaming Chair,18,F,2,1086.48,0.1,1955.66,1365.7,589.96,False,Cash
+1786,2025-05-31,North,Goris,Anna,Furniture,Sofas,Mini Sofa,31,F,3,762.6,0.05,2173.41,1135.86,1037.55,True,Card
+1787,2025-03-12,East,Vanadzor,Sona,Food,Drinks,Cola,60,M,7,883.88,0.0,6187.16,3201.64,2985.52,True,Transfer
+1788,2025-01-17,West,Vanadzor,David,Clothing,Jackets,Winter Jacket,61,F,7,1465.14,0.0,10255.98,6171.85,4084.13,False,Cash
+1789,2025-06-15,Center,Gyumri,Karen,Electronics,Laptops,Dell XPS,30,F,5,437.39,0.1,1968.25,1451.83,516.42,False,Cash
+1790,2025-04-04,West,Goris,Anna,Furniture,Tables,Work Desk,26,F,2,746.85,0.2,1194.96,790.35,404.61,False,Transfer
+1791,2026-04-13,Center,Yerevan,Arman,Clothing,Shoes,Boots,23,M,7,1169.05,0.1,7365.01,4871.58,2493.43,False,Card
+1792,2025-12-10,North,Goris,Sona,Clothing,Jackets,Leather Jacket,47,M,1,1889.56,0.1,1700.6,925.26,775.34,True,Card
+1793,2025-12-20,East,Yerevan,Anna,Clothing,T-Shirts,Basic Tee,65,M,6,1487.88,0.05,8480.92,5918.88,2562.04,False,Transfer
+1794,2025-03-21,East,Vanadzor,Karen,Furniture,Sofas,Mini Sofa,18,F,3,562.74,0.2,1350.58,977.66,372.92,False,Card
+1795,2025-08-31,North,Dilijan,Arman,Electronics,Phones,iPhone 15,43,M,2,1301.96,0.03,2525.8,1443.5,1082.3,True,Cash
+1796,2025-11-10,West,Dilijan,Anna,Food,Drinks,Cola,45,M,4,2105.09,0.15,7157.31,4230.65,2926.66,True,Card
+1797,2025-09-01,West,Vanadzor,Maria,Furniture,Sofas,Corner Sofa,60,M,3,1281.23,0.2,3074.95,2125.83,949.12,False,Cash
+1798,2025-05-26,West,Yerevan,Sona,Clothing,Shoes,Boots,42,M,2,1162.59,0.1,2092.66,1154.85,937.81,False,Card
+1799,2025-01-05,South,Vanadzor,Sona,Food,Snacks,Nachos,50,M,3,1172.43,0.2,2813.83,1858.32,955.51,False,Transfer
+1800,2025-10-16,East,Goris,Karen,Food,Coffee,Arabica Beans,26,F,3,1641.52,0.05,4678.33,3413.2,1265.13,False,Cash
+1801,2025-10-22,Center,Dilijan,Maria,Electronics,Tablets,Galaxy Tab,26,F,7,2406.57,0.15,14319.09,10462.1,3856.99,False,Transfer
+1802,2025-12-07,North,Goris,Karen,Food,Snacks,Protein Bar,48,F,1,2130.82,0.03,2066.9,1201.07,865.83,False,Transfer
+1803,2025-02-01,Center,Vanadzor,Anna,Furniture,Chairs,Office Chair,20,M,7,1890.76,0.1,11911.79,9801.4,2110.39,False,Cash
+1804,2025-11-23,Center,Dilijan,David,Electronics,Phones,Galaxy S25,30,F,2,1748.32,0.1,3146.98,1720.22,1426.76,False,Cash
+1805,2025-04-09,North,Dilijan,Anna,Clothing,Jackets,Winter Jacket,58,M,3,1087.99,0.15,2774.37,2172.43,601.94,False,Card
+1806,2025-12-16,Center,Goris,David,Furniture,Chairs,Gaming Chair,31,F,7,1422.9,0.0,9960.3,6167.91,3792.39,False,Cash
+1807,2025-03-07,Center,Vanadzor,Anna,Furniture,Chairs,Gaming Chair,25,F,7,1565.55,0.0,10958.85,7662.46,3296.39,False,Card
+1808,2025-07-03,North,Gyumri,Maria,Clothing,Jackets,Winter Jacket,22,M,5,2306.07,0.05,10953.83,6973.75,3980.08,False,Cash
+1809,2025-01-17,East,Goris,Maria,Electronics,Tablets,Surface Go,30,F,2,1459.02,0.05,2772.14,2019.87,752.27,True,Card
+1810,2025-10-16,Center,Yerevan,Maria,Furniture,Sofas,Mini Sofa,22,F,1,592.86,0.0,592.86,463.61,129.25,True,Transfer
+1811,2025-11-29,East,Goris,Arman,Food,Snacks,Nachos,37,M,1,264.63,0.1,238.17,161.4,76.77,True,Card
+1812,2025-09-04,North,Goris,Arman,Electronics,Phones,Pixel 10,62,M,7,1706.44,0.2,9556.06,4838.55,4717.51,False,Transfer
+1813,2025-07-08,East,Gyumri,Maria,Food,Coffee,Arabica Beans,45,M,2,1097.69,0.15,1866.07,1574.75,291.32,False,Card
+1814,2026-02-15,North,Gyumri,Anna,Electronics,Tablets,iPad Air,22,M,4,1035.6,0.15,3521.04,2460.56,1060.48,False,Cash
+1815,2025-05-30,South,Dilijan,Arman,Furniture,Tables,Dining Table,48,M,6,877.42,0.2,4211.62,3418.36,793.26,True,Card
+1816,2026-03-16,South,Goris,Karen,Clothing,T-Shirts,Basic Tee,37,F,8,1764.61,0.05,13411.04,10918.92,2492.12,False,Transfer
+1817,2025-06-27,West,Dilijan,Arman,Furniture,Sofas,Mini Sofa,35,M,6,1745.94,0.15,8904.29,4777.44,4126.85,False,Card
+1818,2025-05-01,West,Goris,Anna,Furniture,Tables,Dining Table,19,F,2,934.11,0.03,1812.17,928.83,883.34,True,Cash
+1819,2026-03-14,Center,Goris,Arman,Clothing,T-Shirts,Sport Tee,19,F,5,2068.81,0.0,10344.05,5388.24,4955.81,False,Cash
+1820,2025-12-05,East,Yerevan,Sona,Electronics,Phones,iPhone 15,40,M,7,465.14,0.1,2930.38,2011.33,919.05,False,Cash
+1821,2026-01-21,North,Yerevan,Sona,Furniture,Chairs,Gaming Chair,42,F,7,2165.03,0.2,12124.17,10002.42,2121.75,False,Cash
+1822,2025-01-08,East,Vanadzor,Anna,Clothing,Jackets,Leather Jacket,33,F,8,1865.36,0.03,14475.19,7905.7,6569.49,False,Transfer
+1823,2026-02-19,Center,Yerevan,Anna,Food,Snacks,Nachos,37,F,6,675.52,0.05,3850.46,2979.68,870.78,False,Card
+1824,2025-09-03,Center,Gyumri,Arman,Food,Drinks,Cola,21,M,8,27.13,0.0,217.04,181.89,35.15,False,Transfer
+1825,2025-09-11,South,Gyumri,Karen,Clothing,Jackets,Leather Jacket,29,M,3,648.73,0.05,1848.88,1092.39,756.49,True,Card
+1826,2025-01-22,Center,Gyumri,Anna,Electronics,Tablets,iPad Air,63,F,3,1712.68,0.1,4624.24,3250.66,1373.58,False,Card
+1827,2025-02-27,Center,Yerevan,David,Clothing,T-Shirts,Basic Tee,31,F,4,877.58,0.0,3510.32,2377.99,1132.33,False,Transfer
+1828,2025-07-04,East,Goris,Karen,Food,Snacks,Nachos,41,F,5,361.98,0.05,1719.4,1224.97,494.43,False,Transfer
+1829,2025-01-14,North,Dilijan,David,Electronics,Phones,Galaxy S25,38,F,1,730.73,0.03,708.81,580.63,128.18,False,Cash
+1830,2025-02-09,South,Dilijan,Sona,Electronics,Tablets,Surface Go,54,F,3,955.82,0.2,2293.97,1209.97,1084.0,True,Transfer
+1831,2025-05-31,South,Vanadzor,David,Electronics,Tablets,Galaxy Tab,41,M,8,795.76,0.03,6175.1,4894.4,1280.7,False,Cash
+1832,2025-06-30,Center,Dilijan,Anna,Electronics,Tablets,iPad Air,41,F,8,1833.33,0.1,13199.98,8271.88,4928.1,False,Cash
+1833,2025-12-07,South,Dilijan,Maria,Food,Snacks,Protein Bar,36,F,4,1942.24,0.1,6992.06,5145.71,1846.35,False,Card
+1834,2025-04-12,South,Goris,Anna,Electronics,Laptops,Dell XPS,28,M,3,1442.15,0.2,3461.16,2798.36,662.8,False,Cash
+1835,2025-03-27,North,Gyumri,Sona,Food,Coffee,Arabica Beans,51,F,3,2174.3,0.1,5870.61,2984.48,2886.13,False,Cash
+1836,2025-11-12,North,Yerevan,Anna,Furniture,Tables,Dining Table,65,F,5,301.98,0.05,1434.4,1014.15,420.25,False,Cash
+1837,2025-04-04,Center,Dilijan,Anna,Food,Coffee,Espresso Pack,27,M,5,1895.36,0.2,7581.44,4147.9,3433.54,False,Transfer
+1838,2026-04-29,North,Gyumri,Maria,Food,Drinks,Orange Juice,49,F,8,445.92,0.2,2853.89,2014.36,839.53,True,Transfer
+1839,2025-01-22,South,Goris,Sona,Food,Drinks,Orange Juice,35,F,7,799.85,0.03,5430.98,4527.97,903.01,True,Cash
+1840,2025-03-28,East,Vanadzor,Sona,Clothing,Jackets,Winter Jacket,24,M,5,688.25,0.1,3097.12,1790.98,1306.14,False,Card
+1841,2025-10-04,Center,Gyumri,Anna,Electronics,Phones,Pixel 10,49,M,3,73.24,0.0,219.72,183.67,36.05,False,Card
+1842,2025-02-26,North,Goris,Arman,Clothing,T-Shirts,Sport Tee,49,F,8,1304.63,0.1,9393.34,5666.34,3727.0,True,Card
+1843,2026-01-08,North,Vanadzor,David,Clothing,T-Shirts,Basic Tee,50,F,6,2010.08,0.2,9648.38,7503.18,2145.2,False,Cash
+1844,2026-04-23,Center,Vanadzor,David,Electronics,Tablets,Surface Go,53,M,6,2231.22,0.0,13387.32,8724.28,4663.04,True,Card
+1845,2025-09-06,South,Goris,Maria,Furniture,Sofas,Mini Sofa,26,M,4,1685.0,0.05,6403.0,4255.05,2147.95,True,Transfer
+1846,2025-04-02,North,Goris,Karen,Furniture,Chairs,Gaming Chair,34,F,2,1229.27,0.15,2089.76,1197.41,892.35,False,Transfer
+1847,2025-09-08,West,Dilijan,Maria,Clothing,Shoes,Running Shoes,52,F,5,2102.53,0.05,9987.02,7328.39,2658.63,False,Card
+1848,2025-08-06,North,Gyumri,Arman,Furniture,Chairs,Gaming Chair,38,M,7,2423.56,0.05,16116.67,9453.86,6662.81,False,Transfer
+1849,2025-12-18,South,Yerevan,Maria,Food,Coffee,Arabica Beans,35,M,8,2101.1,0.1,15127.92,10746.43,4381.49,False,Card
+1850,2025-05-14,North,Vanadzor,Arman,Clothing,Shoes,Boots,64,M,7,981.49,0.1,6183.39,4011.91,2171.48,False,Transfer
+1851,2026-02-04,North,Dilijan,Sona,Electronics,Laptops,Dell XPS,39,M,7,557.17,0.03,3783.18,2601.33,1181.85,True,Transfer
+1852,2025-01-26,Center,Gyumri,Maria,Electronics,Laptops,MacBook Air,52,M,6,2281.01,0.15,11633.15,6074.98,5558.17,False,Transfer
+1853,2025-04-21,Center,Gyumri,Anna,Food,Coffee,Arabica Beans,20,M,5,2004.21,0.05,9520.0,5864.57,3655.43,True,Transfer
+1854,2026-01-31,South,Yerevan,Maria,Food,Drinks,Cola,65,M,3,711.31,0.0,2133.93,1238.75,895.18,False,Transfer
+1855,2026-01-26,West,Yerevan,Anna,Food,Snacks,Nachos,65,M,2,195.94,0.15,333.1,250.74,82.36,True,Transfer
+1856,2025-05-21,West,Gyumri,Anna,Food,Snacks,Nachos,34,F,6,1065.76,0.2,5115.65,2599.78,2515.87,False,Cash
+1857,2025-12-26,Center,Dilijan,David,Food,Snacks,Protein Bar,42,M,7,1404.69,0.1,8849.55,5305.73,3543.82,False,Transfer
+1858,2025-04-29,West,Vanadzor,Arman,Food,Drinks,Cola,54,M,8,564.03,0.0,4512.24,2883.65,1628.59,False,Cash
+1859,2025-09-08,Center,Gyumri,Anna,Furniture,Sofas,Corner Sofa,27,F,2,1404.41,0.03,2724.56,2186.98,537.58,False,Transfer
+1860,2025-03-19,North,Vanadzor,Karen,Furniture,Chairs,Gaming Chair,54,F,5,1032.59,0.2,4130.36,2553.61,1576.75,True,Cash
+1861,2025-08-25,West,Dilijan,Sona,Furniture,Sofas,Mini Sofa,65,M,8,785.98,0.2,5030.27,2930.18,2100.09,True,Cash
+1862,2025-04-12,West,Yerevan,Anna,Electronics,Laptops,MacBook Air,45,F,1,409.42,0.2,327.54,177.7,149.84,False,Transfer
+1863,2025-05-31,East,Dilijan,Maria,Food,Snacks,Nachos,57,F,7,28.1,0.0,196.7,128.33,68.37,False,Card
+1864,2025-04-18,East,Gyumri,David,Clothing,T-Shirts,Basic Tee,51,F,6,1300.85,0.05,7414.84,4932.64,2482.2,True,Cash
+1865,2025-04-07,South,Yerevan,Sona,Food,Snacks,Protein Bar,47,F,8,172.28,0.0,1378.24,839.55,538.69,True,Card
+1866,2025-06-26,North,Gyumri,Maria,Food,Coffee,Arabica Beans,36,F,2,879.38,0.15,1494.95,1209.67,285.28,False,Cash
+1867,2025-05-24,South,Vanadzor,Sona,Food,Drinks,Cola,24,M,2,1483.63,0.0,2967.26,2242.45,724.81,False,Cash
+1868,2025-02-16,Center,Gyumri,David,Clothing,T-Shirts,Sport Tee,28,F,4,424.41,0.03,1646.71,1393.41,253.3,True,Cash
+1869,2025-09-14,North,Gyumri,Sona,Electronics,Phones,iPhone 15,43,F,8,1066.39,0.1,7678.01,4717.99,2960.02,False,Transfer
+1870,2026-05-05,South,Vanadzor,Karen,Food,Drinks,Orange Juice,27,F,6,1329.06,0.15,6778.21,5387.1,1391.11,False,Cash
+1871,2025-07-07,West,Vanadzor,Karen,Clothing,T-Shirts,Basic Tee,45,M,7,1631.97,0.03,11081.08,5638.65,5442.43,False,Cash
+1872,2025-10-28,East,Vanadzor,Anna,Clothing,Jackets,Winter Jacket,41,F,4,1107.99,0.15,3767.17,2140.55,1626.62,True,Transfer
+1873,2025-05-21,North,Dilijan,Anna,Clothing,Jackets,Leather Jacket,63,F,8,998.74,0.2,6391.94,4771.54,1620.4,False,Cash
+1874,2025-03-20,South,Gyumri,Anna,Furniture,Tables,Dining Table,44,M,1,926.99,0.15,787.94,640.59,147.35,True,Cash
+1875,2026-01-13,North,Vanadzor,Karen,Electronics,Laptops,MacBook Air,38,M,5,2458.59,0.03,11924.16,8696.13,3228.03,False,Transfer
+1876,2025-04-09,Center,Gyumri,Karen,Electronics,Tablets,Galaxy Tab,35,M,7,2095.1,0.2,11732.56,6118.76,5613.8,False,Cash
+1877,2026-01-18,North,Vanadzor,Maria,Electronics,Laptops,Lenovo ThinkPad,53,F,4,1723.35,0.1,6204.06,3477.62,2726.44,True,Cash
+1878,2025-02-14,South,Vanadzor,Sona,Food,Coffee,Arabica Beans,58,M,8,224.96,0.0,1799.68,1014.8,784.88,False,Card
+1879,2025-06-07,South,Gyumri,Maria,Furniture,Sofas,Mini Sofa,21,F,8,207.78,0.2,1329.79,1103.9,225.89,False,Card
+1880,2025-04-13,South,Vanadzor,Maria,Clothing,Jackets,Leather Jacket,62,F,7,568.77,0.03,3861.95,2299.71,1562.24,False,Card
+1881,2025-11-20,South,Yerevan,Sona,Food,Drinks,Orange Juice,42,M,6,1932.06,0.15,9853.51,6477.56,3375.95,False,Transfer
+1882,2026-01-16,East,Yerevan,Sona,Food,Drinks,Orange Juice,31,F,4,858.74,0.15,2919.72,2023.55,896.17,False,Cash
+1883,2025-07-10,Center,Goris,Karen,Clothing,Jackets,Winter Jacket,55,M,3,1190.65,0.1,3214.76,2267.65,947.11,False,Transfer
+1884,2025-11-28,North,Gyumri,Maria,Electronics,Tablets,Galaxy Tab,37,M,1,401.08,0.1,360.97,222.77,138.2,False,Transfer
+1885,2025-07-24,West,Gyumri,Maria,Furniture,Chairs,Gaming Chair,64,F,8,1485.97,0.2,9510.21,6202.93,3307.28,False,Cash
+1886,2025-08-07,East,Dilijan,Arman,Food,Drinks,Cola,55,M,4,1909.12,0.15,6491.01,3490.54,3000.47,False,Transfer
+1887,2025-01-28,North,Vanadzor,David,Furniture,Tables,Dining Table,40,F,3,329.08,0.05,937.88,727.79,210.09,False,Card
+1888,2025-04-05,South,Gyumri,Arman,Food,Snacks,Protein Bar,23,M,4,2207.97,0.05,8390.29,5098.23,3292.06,False,Transfer
+1889,2025-07-21,South,Goris,Karen,Clothing,Jackets,Leather Jacket,42,F,3,865.06,0.1,2335.66,1617.3,718.36,False,Card
+1890,2026-02-24,West,Dilijan,Arman,Food,Snacks,Nachos,52,M,3,1002.71,0.05,2857.72,2327.06,530.66,False,Cash
+1891,2025-09-14,North,Dilijan,Sona,Electronics,Phones,Pixel 10,43,M,3,1920.77,0.05,5474.19,3431.21,2042.98,False,Card
+1892,2025-12-01,South,Goris,David,Food,Snacks,Protein Bar,36,F,4,758.34,0.0,3033.36,1877.21,1156.15,False,Transfer
+1893,2026-03-04,North,Goris,Anna,Food,Snacks,Nachos,40,M,7,452.9,0.1,2853.27,2108.05,745.22,False,Card
+1894,2026-05-07,West,Goris,Anna,Furniture,Tables,Dining Table,37,F,7,1717.32,0.0,12021.24,8056.02,3965.22,False,Transfer
+1895,2025-10-01,East,Yerevan,David,Electronics,Tablets,Galaxy Tab,45,F,6,1953.6,0.2,9377.28,5788.33,3588.95,True,Card
+1896,2025-08-21,West,Yerevan,Arman,Electronics,Laptops,Lenovo ThinkPad,36,M,5,498.04,0.15,2116.67,1597.39,519.28,True,Cash
+1897,2026-01-28,North,Dilijan,Maria,Food,Drinks,Cola,29,F,6,634.56,0.05,3616.99,2663.0,953.99,False,Cash
+1898,2026-01-10,North,Dilijan,Karen,Electronics,Laptops,Dell XPS,43,M,5,1591.78,0.15,6765.06,3646.97,3118.09,False,Card
+1899,2025-06-26,West,Dilijan,David,Electronics,Phones,Pixel 10,64,F,3,1584.14,0.1,4277.18,3475.0,802.18,True,Card
+1900,2026-03-28,North,Goris,Sona,Clothing,Shoes,Running Shoes,64,M,3,1525.34,0.2,3660.82,2647.63,1013.19,False,Transfer
+1901,2025-12-01,North,Goris,Anna,Clothing,Shoes,Boots,30,F,1,463.91,0.2,371.13,218.93,152.2,False,Transfer
+1902,2025-08-12,East,Gyumri,Maria,Furniture,Sofas,Corner Sofa,50,M,6,1435.47,0.03,8354.44,6401.6,1952.84,False,Card
+1903,2025-05-21,East,Goris,Sona,Clothing,Shoes,Running Shoes,58,F,7,521.81,0.1,3287.4,2399.88,887.52,True,Card
+1904,2025-11-08,West,Dilijan,Arman,Furniture,Chairs,Gaming Chair,58,F,4,163.99,0.05,623.16,470.4,152.76,False,Cash
+1905,2026-03-14,West,Gyumri,Sona,Electronics,Laptops,Dell XPS,62,M,6,869.18,0.1,4693.57,2596.12,2097.45,False,Cash
+1906,2026-01-18,Center,Vanadzor,Maria,Food,Snacks,Protein Bar,36,F,8,1405.51,0.05,10681.88,5651.59,5030.29,False,Transfer
+1907,2026-01-27,North,Vanadzor,Sona,Food,Snacks,Protein Bar,65,F,3,1562.54,0.15,3984.48,2594.04,1390.44,False,Cash
+1908,2025-10-20,East,Gyumri,David,Furniture,Tables,Dining Table,65,F,2,992.4,0.03,1925.26,1631.17,294.09,False,Cash
+1909,2026-03-29,East,Dilijan,Sona,Furniture,Tables,Work Desk,52,F,6,1927.4,0.2,9251.52,4967.82,4283.7,False,Cash
+1910,2025-01-02,Center,Vanadzor,Arman,Food,Drinks,Orange Juice,59,M,8,396.63,0.03,3077.85,1969.88,1107.97,True,Cash
+1911,2025-11-09,Center,Dilijan,Anna,Food,Drinks,Orange Juice,56,F,4,1592.86,0.15,5415.72,3132.82,2282.9,True,Cash
+1912,2026-03-29,West,Dilijan,Sona,Furniture,Chairs,Gaming Chair,30,M,2,2379.86,0.0,4759.72,3617.57,1142.15,False,Cash
+1913,2025-01-16,South,Dilijan,Arman,Furniture,Chairs,Gaming Chair,47,M,4,810.2,0.05,3078.76,1609.22,1469.54,False,Card
+1914,2026-01-05,North,Yerevan,Karen,Furniture,Tables,Dining Table,20,F,6,2180.85,0.03,12692.55,7434.05,5258.5,False,Cash
+1915,2025-10-01,North,Goris,Arman,Electronics,Laptops,Dell XPS,64,M,2,1790.91,0.15,3044.55,2211.81,832.74,False,Cash
+1916,2026-03-10,East,Dilijan,Anna,Electronics,Laptops,Dell XPS,64,M,8,1074.33,0.0,8594.64,4609.03,3985.61,False,Cash
+1917,2025-12-22,North,Goris,Karen,Clothing,Jackets,Winter Jacket,49,M,8,529.16,0.0,4233.28,2605.62,1627.66,False,Cash
+1918,2025-05-21,Center,Yerevan,David,Clothing,T-Shirts,Sport Tee,27,F,6,1969.5,0.2,9453.6,5580.2,3873.4,True,Card
+1919,2025-11-21,East,Goris,Karen,Clothing,T-Shirts,Sport Tee,46,F,5,770.12,0.2,3080.48,1710.92,1369.56,False,Transfer
+1920,2025-04-19,Center,Vanadzor,David,Furniture,Chairs,Gaming Chair,55,M,7,646.98,0.03,4392.99,2239.55,2153.44,False,Cash
+1921,2025-06-10,Center,Vanadzor,Arman,Food,Drinks,Cola,49,M,6,1611.41,0.15,8218.19,6561.52,1656.67,False,Card
+1922,2025-03-18,East,Dilijan,Karen,Food,Drinks,Cola,25,M,2,859.21,0.05,1632.5,934.2,698.3,False,Cash
+1923,2025-07-24,North,Vanadzor,Sona,Food,Coffee,Arabica Beans,22,F,4,1854.74,0.05,7048.01,5162.56,1885.45,True,Card
+1924,2026-04-25,South,Gyumri,Karen,Food,Coffee,Arabica Beans,63,F,4,643.9,0.2,2060.48,1161.99,898.49,False,Card
+1925,2025-02-02,South,Dilijan,Maria,Clothing,T-Shirts,Sport Tee,21,M,2,1859.06,0.2,2974.5,2352.06,622.44,False,Card
+1926,2025-09-02,North,Goris,Anna,Food,Drinks,Cola,48,M,1,800.55,0.2,640.44,336.6,303.84,True,Transfer
+1927,2026-04-09,North,Goris,Karen,Furniture,Sofas,Mini Sofa,30,F,5,1425.48,0.15,6058.29,3940.4,2117.89,True,Cash
+1928,2025-09-21,East,Vanadzor,Maria,Food,Coffee,Espresso Pack,52,M,8,1579.66,0.05,12005.42,8134.3,3871.12,False,Cash
+1929,2025-06-13,Center,Goris,Arman,Clothing,T-Shirts,Sport Tee,28,M,2,2443.19,0.03,4739.79,3178.76,1561.03,True,Cash
+1930,2025-04-10,North,Gyumri,David,Clothing,Jackets,Leather Jacket,37,F,6,1596.52,0.15,8142.25,6415.24,1727.01,False,Transfer
+1931,2025-04-09,West,Gyumri,David,Food,Snacks,Nachos,57,M,4,1429.67,0.03,5547.12,3402.15,2144.97,False,Transfer
+1932,2026-03-15,East,Vanadzor,David,Food,Coffee,Espresso Pack,37,F,5,575.67,0.05,2734.43,1818.93,915.5,False,Transfer
+1933,2026-04-27,West,Yerevan,Arman,Clothing,Shoes,Boots,40,M,7,1410.4,0.1,8885.52,4460.4,4425.12,False,Cash
+1934,2025-07-11,North,Vanadzor,Arman,Electronics,Tablets,iPad Air,42,F,4,1656.83,0.05,6295.95,3797.58,2498.37,False,Card
+1935,2026-04-28,Center,Goris,Anna,Food,Drinks,Cola,60,F,2,611.63,0.05,1162.1,875.06,287.04,False,Card
+1936,2025-10-03,East,Goris,Maria,Clothing,T-Shirts,Sport Tee,25,F,1,258.09,0.2,206.47,128.0,78.47,False,Transfer
+1937,2025-10-21,South,Dilijan,Anna,Electronics,Laptops,Lenovo ThinkPad,46,M,7,2061.66,0.03,13998.67,9889.12,4109.55,False,Transfer
+1938,2025-12-25,East,Vanadzor,Arman,Clothing,T-Shirts,Sport Tee,65,M,1,355.47,0.0,355.47,286.07,69.4,False,Cash
+1939,2025-05-13,East,Dilijan,Karen,Food,Snacks,Nachos,19,M,6,835.87,0.2,4012.18,3370.25,641.93,True,Transfer
+1940,2025-09-20,East,Yerevan,Sona,Food,Drinks,Orange Juice,45,M,8,1996.25,0.15,13574.5,7073.68,6500.82,False,Transfer
+1941,2025-10-13,North,Dilijan,David,Food,Drinks,Orange Juice,50,M,2,1837.41,0.15,3123.6,1662.54,1461.06,False,Transfer
+1942,2025-06-19,North,Gyumri,Karen,Furniture,Chairs,Gaming Chair,54,F,5,1166.96,0.2,4667.84,2582.58,2085.26,False,Transfer
+1943,2025-04-26,East,Goris,David,Food,Snacks,Nachos,34,M,5,20.85,0.1,93.83,47.53,46.3,False,Transfer
+1944,2025-03-20,South,Gyumri,David,Food,Coffee,Arabica Beans,37,M,6,2233.64,0.2,10721.47,8615.08,2106.39,True,Card
+1945,2026-04-21,South,Gyumri,David,Electronics,Phones,Pixel 10,37,M,6,2386.88,0.05,13605.22,10948.05,2657.17,False,Cash
+1946,2026-05-01,West,Yerevan,Arman,Furniture,Chairs,Gaming Chair,65,M,1,347.59,0.1,312.83,169.89,142.94,False,Card
+1947,2025-03-05,North,Gyumri,Sona,Food,Drinks,Orange Juice,55,M,4,518.05,0.1,1864.98,1317.75,547.23,False,Card
+1948,2025-04-18,North,Dilijan,Maria,Electronics,Laptops,Lenovo ThinkPad,48,F,6,1875.46,0.05,10690.12,6898.28,3791.84,True,Cash
+1949,2026-04-30,East,Yerevan,Arman,Electronics,Phones,Galaxy S25,59,F,7,1003.77,0.0,7026.39,4385.44,2640.95,False,Transfer
+1950,2025-05-21,East,Yerevan,David,Electronics,Tablets,Surface Go,33,M,7,2190.47,0.0,15333.29,12771.99,2561.3,True,Card
+1951,2025-12-05,East,Vanadzor,Sona,Furniture,Chairs,Gaming Chair,44,M,1,157.65,0.03,152.92,122.83,30.09,False,Card
+1952,2025-01-16,West,Gyumri,Maria,Furniture,Sofas,Corner Sofa,43,F,3,915.84,0.0,2747.52,2130.14,617.38,False,Transfer
+1953,2026-03-23,South,Goris,Anna,Clothing,Jackets,Winter Jacket,52,F,6,76.1,0.1,410.94,210.39,200.55,False,Card
+1954,2025-09-01,West,Goris,Sona,Electronics,Phones,Galaxy S25,46,M,4,234.85,0.0,939.4,506.66,432.74,True,Cash
+1955,2025-11-11,North,Goris,Arman,Food,Drinks,Orange Juice,65,M,3,810.58,0.15,2066.98,1297.97,769.01,False,Card
+1956,2026-03-31,Center,Yerevan,David,Furniture,Chairs,Office Chair,32,F,2,1859.25,0.2,2974.8,1907.87,1066.93,False,Transfer
+1957,2025-07-11,South,Dilijan,Karen,Clothing,Shoes,Boots,20,F,5,1900.93,0.03,9219.51,5667.97,3551.54,True,Card
+1958,2025-06-15,North,Dilijan,Arman,Furniture,Chairs,Office Chair,48,F,1,2089.27,0.03,2026.59,1128.12,898.47,False,Transfer
+1959,2026-01-17,East,Dilijan,Maria,Food,Drinks,Cola,39,M,8,1555.17,0.15,10575.16,6915.65,3659.51,False,Cash
+1960,2025-05-15,North,Vanadzor,Arman,Food,Coffee,Espresso Pack,59,M,2,1671.69,0.05,3176.21,2436.61,739.6,False,Card
+1961,2025-06-27,East,Goris,Arman,Furniture,Tables,Dining Table,53,M,2,1378.41,0.05,2618.98,1425.26,1193.72,False,Cash
+1962,2025-11-04,South,Dilijan,Sona,Furniture,Chairs,Office Chair,51,M,1,500.7,0.2,400.56,249.9,150.66,False,Transfer
+1963,2025-11-21,Center,Gyumri,Karen,Furniture,Sofas,Corner Sofa,27,F,6,401.08,0.2,1925.18,1074.2,850.98,False,Cash
+1964,2025-08-28,East,Gyumri,Karen,Electronics,Laptops,Dell XPS,37,M,7,2252.89,0.1,14193.21,11536.39,2656.82,True,Cash
+1965,2026-02-26,South,Gyumri,Arman,Clothing,Jackets,Winter Jacket,28,F,1,1889.15,0.03,1832.48,1008.46,824.02,False,Transfer
+1966,2025-07-25,North,Dilijan,Karen,Furniture,Chairs,Gaming Chair,27,M,2,569.63,0.05,1082.3,594.35,487.95,False,Card
+1967,2025-11-18,Center,Goris,David,Clothing,Shoes,Running Shoes,60,F,2,1303.95,0.15,2216.72,1187.97,1028.75,False,Card
+1968,2026-04-02,East,Yerevan,Karen,Food,Snacks,Protein Bar,47,F,6,2188.71,0.0,13132.26,8319.62,4812.64,False,Transfer
+1969,2025-11-03,East,Gyumri,Karen,Food,Drinks,Cola,49,F,2,225.99,0.2,361.58,257.14,104.44,False,Card
+1970,2025-08-03,East,Vanadzor,Anna,Electronics,Laptops,Lenovo ThinkPad,18,M,5,2262.3,0.2,9049.2,6132.99,2916.21,False,Card
+1971,2025-11-07,Center,Goris,Sona,Food,Snacks,Nachos,51,F,5,264.39,0.2,1057.56,709.36,348.2,True,Transfer
+1972,2025-05-03,East,Dilijan,Karen,Electronics,Tablets,Surface Go,63,F,2,1441.19,0.0,2882.38,2416.46,465.92,False,Transfer
+1973,2025-01-20,West,Goris,Karen,Electronics,Laptops,Lenovo ThinkPad,19,M,8,2131.32,0.15,14492.98,11626.18,2866.8,False,Card
+1974,2026-04-02,East,Vanadzor,Karen,Clothing,Jackets,Leather Jacket,40,F,7,2005.73,0.2,11232.09,7411.14,3820.95,False,Cash
+1975,2026-02-11,South,Gyumri,Sona,Food,Snacks,Nachos,53,F,8,1749.27,0.2,11195.33,6628.88,4566.45,False,Cash
+1976,2026-03-05,South,Vanadzor,Maria,Furniture,Tables,Dining Table,24,M,6,882.75,0.15,4502.02,3416.81,1085.21,False,Cash
+1977,2025-06-22,West,Vanadzor,David,Food,Coffee,Arabica Beans,28,F,7,509.36,0.2,2852.42,1910.85,941.57,True,Card
+1978,2025-11-13,North,Gyumri,Anna,Furniture,Sofas,Mini Sofa,23,F,5,1893.14,0.15,8045.85,4523.92,3521.93,False,Card
+1979,2026-05-05,East,Dilijan,Sona,Clothing,T-Shirts,Sport Tee,23,F,7,336.92,0.1,2122.6,1138.28,984.32,False,Cash
+1980,2025-04-25,South,Gyumri,David,Electronics,Phones,Pixel 10,46,M,3,1670.47,0.05,4760.84,2424.34,2336.5,False,Card
+1981,2025-10-18,South,Goris,David,Clothing,Jackets,Winter Jacket,51,F,8,2095.64,0.1,15088.61,10482.25,4606.36,False,Transfer
+1982,2026-04-25,South,Vanadzor,Sona,Clothing,T-Shirts,Sport Tee,40,M,5,1081.13,0.05,5135.37,4185.42,949.95,False,Cash
+1983,2025-10-02,East,Yerevan,Sona,Furniture,Sofas,Corner Sofa,32,F,2,2452.62,0.15,4169.45,3118.43,1051.02,False,Cash
+1984,2025-02-03,South,Yerevan,Sona,Clothing,T-Shirts,Basic Tee,46,M,8,1548.92,0.1,11152.22,7883.19,3269.03,False,Cash
+1985,2026-05-01,North,Dilijan,Arman,Furniture,Chairs,Gaming Chair,45,M,2,2387.06,0.05,4535.41,3172.13,1363.28,False,Card
+1986,2025-03-15,Center,Dilijan,Maria,Food,Drinks,Orange Juice,18,M,6,585.25,0.15,2984.78,2480.93,503.85,False,Transfer
+1987,2025-04-10,South,Dilijan,David,Electronics,Phones,Pixel 10,29,M,2,1326.78,0.2,2122.85,1181.2,941.65,False,Transfer
+1988,2025-12-17,West,Goris,Arman,Electronics,Laptops,MacBook Air,62,F,2,2365.64,0.15,4021.59,2997.39,1024.2,False,Cash
+1989,2025-09-13,North,Gyumri,Maria,Furniture,Chairs,Gaming Chair,43,M,6,447.64,0.1,2417.26,1952.35,464.91,False,Cash
+1990,2025-02-01,Center,Yerevan,Karen,Electronics,Laptops,Dell XPS,41,M,2,1312.05,0.0,2624.1,2119.63,504.47,False,Card
+1991,2026-03-16,North,Gyumri,David,Electronics,Phones,Galaxy S25,58,F,7,769.13,0.15,4576.32,3190.51,1385.81,False,Transfer
+1992,2025-08-14,South,Dilijan,David,Furniture,Tables,Dining Table,46,M,3,1501.3,0.15,3828.31,2151.22,1677.09,True,Transfer
+1993,2025-03-27,North,Goris,David,Electronics,Laptops,Dell XPS,56,M,2,875.89,0.03,1699.23,1200.57,498.66,False,Cash
+1994,2026-05-07,West,Gyumri,Arman,Food,Drinks,Cola,20,F,2,849.17,0.05,1613.42,886.55,726.87,True,Cash
+1995,2025-09-30,Center,Goris,Sona,Electronics,Tablets,iPad Air,59,M,6,2280.11,0.15,11628.56,8154.88,3473.68,False,Cash
+1996,2025-07-13,North,Goris,Anna,Furniture,Tables,Dining Table,49,M,5,2360.9,0.1,10624.05,6815.15,3808.9,False,Transfer
+1997,2025-12-24,North,Dilijan,Anna,Food,Coffee,Espresso Pack,30,M,5,1246.55,0.05,5921.11,4558.04,1363.07,False,Transfer
+1998,2025-07-17,South,Vanadzor,Sona,Furniture,Sofas,Mini Sofa,21,F,1,1338.06,0.0,1338.06,1121.79,216.27,False,Transfer
+1999,2025-12-31,East,Yerevan,Karen,Clothing,T-Shirts,Basic Tee,31,F,4,251.13,0.03,974.38,791.51,182.87,False,Transfer
+2000,2025-01-03,South,Vanadzor,David,Electronics,Phones,Galaxy S25,42,M,4,2251.3,0.0,9005.2,7415.87,1589.33,False,Cash
